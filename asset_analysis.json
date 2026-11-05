@@ -1,0 +1,7462 @@
+{
+  "environment.glb": {
+    "filename": "environment.glb",
+    "size_bytes": 19222148,
+    "nodes": 16,
+    "root_nodes": [
+      0
+    ],
+    "mesh_definitions": 9,
+    "mesh_instances": 9,
+    "triangles": 24742,
+    "materials": [
+      "Mechetb",
+      "Brick_SquarishClay_2k_d",
+      "Concrete_SeattleParking_2k_d",
+      "Concrete_BrickGrimeline_2k_d",
+      "Plaster_oldCracked_2k_d",
+      "Plaster_damagedBrown1_2k_d",
+      "Ground_0",
+      "Plaster_damagedBrown2_2k_D",
+      "ShortDust2"
+    ],
+    "images": [
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      }
+    ],
+    "skins": [],
+    "animations": [],
+    "bounds_min": [
+      -0.94958,
+      0.5507,
+      -1.47573
+    ],
+    "bounds_max": [
+      1.26675,
+      0.96754,
+      1.18462
+    ],
+    "dimensions": [
+      2.21633,
+      0.41684,
+      2.66035
+    ],
+    "mesh_nodes": [
+      {
+        "node": 7,
+        "name": "Object_7",
+        "triangles": 210,
+        "bounds": [
+          [
+            -0.347,
+            0.57,
+            -0.316
+          ],
+          [
+            0.293,
+            0.749,
+            0.121
+          ]
+        ]
+      },
+      {
+        "node": 8,
+        "name": "Object_8",
+        "triangles": 140,
+        "bounds": [
+          [
+            0.14,
+            0.551,
+            -0.315
+          ],
+          [
+            0.531,
+            0.626,
+            0.262
+          ]
+        ]
+      },
+      {
+        "node": 9,
+        "name": "Object_9",
+        "triangles": 1452,
+        "bounds": [
+          [
+            0.021,
+            0.553,
+            -0.086
+          ],
+          [
+            0.57,
+            0.662,
+            0.285
+          ]
+        ]
+      },
+      {
+        "node": 10,
+        "name": "Object_10",
+        "triangles": 1206,
+        "bounds": [
+          [
+            0.021,
+            0.569,
+            -0.68
+          ],
+          [
+            0.704,
+            0.744,
+            0.338
+          ]
+        ]
+      },
+      {
+        "node": 11,
+        "name": "Object_11",
+        "triangles": 706,
+        "bounds": [
+          [
+            0.169,
+            0.57,
+            -0.344
+          ],
+          [
+            0.436,
+            0.708,
+            0.312
+          ]
+        ]
+      },
+      {
+        "node": 12,
+        "name": "Object_12",
+        "triangles": 2701,
+        "bounds": [
+          [
+            -0.408,
+            0.569,
+            -0.532
+          ],
+          [
+            0.635,
+            0.784,
+            0.327
+          ]
+        ]
+      },
+      {
+        "node": 13,
+        "name": "Object_13",
+        "triangles": 98,
+        "bounds": [
+          [
+            0.007,
+            0.554,
+            -0.634
+          ],
+          [
+            0.614,
+            0.623,
+            0.294
+          ]
+        ]
+      },
+      {
+        "node": 14,
+        "name": "Object_14",
+        "triangles": 531,
+        "bounds": [
+          [
+            0.286,
+            0.567,
+            -0.373
+          ],
+          [
+            0.569,
+            0.65,
+            -0.084
+          ]
+        ]
+      },
+      {
+        "node": 15,
+        "name": "Object_15",
+        "triangles": 17698,
+        "bounds": [
+          [
+            -0.95,
+            0.551,
+            -1.476
+          ],
+          [
+            1.267,
+            0.968,
+            1.185
+          ]
+        ]
+      }
+    ],
+    "nodes_all": [
+      {
+        "id": 0,
+        "name": "Sketchfab_model",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          1
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 1,
+        "name": "root",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          2
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 2,
+        "name": "GLTF_SceneRootNode",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          3
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 3,
+        "name": "ReflectionProbes (merge)_3",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          4
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 4,
+        "name": "ShortDust_2",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          5
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 5,
+        "name": "Part(Other)_1",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          6
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 6,
+        "name": "_Combined Mesh [Part(Other)]_0",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 7,
+        "name": "Object_7",
+        "mesh": 0,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 8,
+        "name": "Object_8",
+        "mesh": 1,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 9,
+        "name": "Object_9",
+        "mesh": 2,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 10,
+        "name": "Object_10",
+        "mesh": 3,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 11,
+        "name": "Object_11",
+        "mesh": 4,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 12,
+        "name": "Object_12",
+        "mesh": 5,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 13,
+        "name": "Object_13",
+        "mesh": 6,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 14,
+        "name": "Object_14",
+        "mesh": 7,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 15,
+        "name": "Object_15",
+        "mesh": 8,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      }
+    ]
+  },
+  "enemy.glb": {
+    "filename": "enemy.glb",
+    "size_bytes": 25472068,
+    "nodes": 189,
+    "root_nodes": [
+      0
+    ],
+    "mesh_definitions": 23,
+    "mesh_instances": 23,
+    "triangles": 84154,
+    "materials": [
+      "Mark_HeadMasked",
+      "Mark_Helmet1",
+      "Mark_Plate_1",
+      "Mark_Gloves_1",
+      "Mark_Pouches_1",
+      "Mark_SunGlusses_Glus",
+      "Mark_Boots_2",
+      "Mark_Kitel_1",
+      "Mark_Pants_1",
+      "Mark_Eye"
+    ],
+    "images": [
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "skins": [
+      {
+        "name": null,
+        "joint_count": 114,
+        "root": "_rootJoint",
+        "joints": [
+          [
+            6,
+            "_rootJoint"
+          ],
+          [
+            7,
+            "RL_BoneRoot_00"
+          ],
+          [
+            8,
+            "CC_Base_Hip_01"
+          ],
+          [
+            9,
+            "CC_Base_Pelvis_02"
+          ],
+          [
+            10,
+            "CC_Base_L_Thigh_03"
+          ],
+          [
+            11,
+            "CC_Base_L_Calf_04"
+          ],
+          [
+            12,
+            "CC_Base_L_Foot_05"
+          ],
+          [
+            13,
+            "CC_Base_L_ToeBaseShareBone_06"
+          ],
+          [
+            14,
+            "CC_Base_L_ToeBase_07"
+          ],
+          [
+            15,
+            "CC_Base_L_PinkyToe1_08"
+          ],
+          [
+            16,
+            "CC_Base_L_RingToe1_09"
+          ],
+          [
+            17,
+            "CC_Base_L_MidToe1_010"
+          ],
+          [
+            18,
+            "CC_Base_L_IndexToe1_011"
+          ],
+          [
+            19,
+            "CC_Base_L_BigToe1_012"
+          ],
+          [
+            20,
+            "CC_Base_L_CalfTwist01_013"
+          ],
+          [
+            21,
+            "CC_Base_L_CalfTwist02_014"
+          ],
+          [
+            22,
+            "CC_Base_L_KneeShareBone_015"
+          ],
+          [
+            23,
+            "CC_Base_L_ThighTwist01_016"
+          ],
+          [
+            24,
+            "CC_Base_L_ThighTwist02_017"
+          ],
+          [
+            25,
+            "CC_Base_R_Thigh_018"
+          ],
+          [
+            26,
+            "CC_Base_R_ThighTwist01_019"
+          ],
+          [
+            27,
+            "CC_Base_R_ThighTwist02_020"
+          ],
+          [
+            28,
+            "CC_Base_R_Calf_021"
+          ],
+          [
+            29,
+            "CC_Base_R_Foot_022"
+          ],
+          [
+            30,
+            "CC_Base_R_ToeBase_023"
+          ],
+          [
+            31,
+            "CC_Base_R_PinkyToe1_024"
+          ],
+          [
+            32,
+            "CC_Base_R_BigToe1_025"
+          ],
+          [
+            33,
+            "CC_Base_R_IndexToe1_026"
+          ],
+          [
+            34,
+            "CC_Base_R_MidToe1_027"
+          ],
+          [
+            35,
+            "CC_Base_R_RingToe1_028"
+          ],
+          [
+            36,
+            "CC_Base_R_ToeBaseShareBone_029"
+          ],
+          [
+            37,
+            "CC_Base_R_KneeShareBone_030"
+          ],
+          [
+            38,
+            "CC_Base_R_CalfTwist01_031"
+          ],
+          [
+            39,
+            "CC_Base_R_CalfTwist02_032"
+          ],
+          [
+            40,
+            "CC_Base_Waist_033"
+          ],
+          [
+            41,
+            "CC_Base_Spine01_034"
+          ],
+          [
+            42,
+            "CC_Base_Spine02_035"
+          ],
+          [
+            43,
+            "CC_Base_NeckTwist01_036"
+          ],
+          [
+            44,
+            "CC_Base_NeckTwist02_037"
+          ],
+          [
+            45,
+            "CC_Base_Head_038"
+          ],
+          [
+            46,
+            "CC_Base_FacialBone_039"
+          ],
+          [
+            47,
+            "CC_Base_JawRoot_040"
+          ],
+          [
+            48,
+            "CC_Base_Tongue01_041"
+          ],
+          [
+            49,
+            "CC_Base_Tongue02_042"
+          ],
+          [
+            50,
+            "CC_Base_Tongue03_043"
+          ],
+          [
+            51,
+            "CC_Base_Teeth02_044"
+          ],
+          [
+            52,
+            "CC_Base_R_Eye_045"
+          ],
+          [
+            53,
+            "CC_Base_L_Eye_046"
+          ],
+          [
+            54,
+            "CC_Base_UpperJaw_047"
+          ],
+          [
+            55,
+            "CC_Base_Teeth01_048"
+          ],
+          [
+            56,
+            "CC_Base_L_Clavicle_049"
+          ],
+          [
+            57,
+            "CC_Base_L_Upperarm_050"
+          ],
+          [
+            58,
+            "CC_Base_L_Forearm_051"
+          ],
+          [
+            59,
+            "CC_Base_L_ForearmTwist01_052"
+          ],
+          [
+            60,
+            "CC_Base_L_ForearmTwist02_053"
+          ],
+          [
+            61,
+            "CC_Base_L_ElbowShareBone_054"
+          ],
+          [
+            62,
+            "CC_Base_L_Hand_055"
+          ],
+          [
+            63,
+            "CC_Base_L_Mid1_056"
+          ],
+          [
+            64,
+            "CC_Base_L_Mid2_057"
+          ],
+          [
+            65,
+            "CC_Base_L_Mid3_058"
+          ],
+          [
+            66,
+            "CC_Base_L_Index1_059"
+          ],
+          [
+            67,
+            "CC_Base_L_Index2_060"
+          ],
+          [
+            68,
+            "CC_Base_L_Index3_061"
+          ],
+          [
+            69,
+            "CC_Base_L_Ring1_062"
+          ],
+          [
+            70,
+            "CC_Base_L_Ring2_063"
+          ],
+          [
+            71,
+            "CC_Base_L_Ring3_064"
+          ],
+          [
+            72,
+            "CC_Base_L_Pinky1_065"
+          ],
+          [
+            73,
+            "CC_Base_L_Pinky2_066"
+          ],
+          [
+            74,
+            "CC_Base_L_Pinky3_067"
+          ],
+          [
+            75,
+            "CC_Base_L_Thumb1_068"
+          ],
+          [
+            76,
+            "CC_Base_L_Thumb2_069"
+          ],
+          [
+            77,
+            "CC_Base_L_Thumb3_070"
+          ],
+          [
+            78,
+            "CC_Base_L_UpperarmTwist01_071"
+          ],
+          [
+            79,
+            "CC_Base_L_UpperarmTwist02_072"
+          ],
+          [
+            80,
+            "CC_Base_R_Clavicle_073"
+          ],
+          [
+            81,
+            "CC_Base_R_Upperarm_074"
+          ],
+          [
+            82,
+            "CC_Base_R_UpperarmTwist01_075"
+          ],
+          [
+            83,
+            "CC_Base_R_UpperarmTwist02_076"
+          ],
+          [
+            84,
+            "CC_Base_R_Forearm_077"
+          ],
+          [
+            85,
+            "CC_Base_R_ForearmTwist01_078"
+          ],
+          [
+            86,
+            "CC_Base_R_ForearmTwist02_079"
+          ],
+          [
+            87,
+            "CC_Base_R_ElbowShareBone_080"
+          ],
+          [
+            88,
+            "CC_Base_R_Hand_081"
+          ],
+          [
+            89,
+            "CC_Base_R_Mid1_082"
+          ],
+          [
+            90,
+            "CC_Base_R_Mid2_083"
+          ],
+          [
+            91,
+            "CC_Base_R_Mid3_084"
+          ],
+          [
+            92,
+            "CC_Base_R_Ring1_085"
+          ],
+          [
+            93,
+            "CC_Base_R_Ring2_086"
+          ],
+          [
+            94,
+            "CC_Base_R_Ring3_087"
+          ],
+          [
+            95,
+            "CC_Base_R_Thumb1_088"
+          ],
+          [
+            96,
+            "CC_Base_R_Thumb2_089"
+          ],
+          [
+            97,
+            "CC_Base_R_Thumb3_090"
+          ],
+          [
+            98,
+            "CC_Base_R_Index1_091"
+          ],
+          [
+            99,
+            "CC_Base_R_Index2_092"
+          ],
+          [
+            100,
+            "CC_Base_R_Index3_093"
+          ],
+          [
+            101,
+            "CC_Base_R_Pinky1_094"
+          ],
+          [
+            102,
+            "CC_Base_R_Pinky2_095"
+          ],
+          [
+            103,
+            "CC_Base_R_Pinky3_096"
+          ],
+          [
+            104,
+            "CC_Base_R_RibsTwist_097"
+          ],
+          [
+            105,
+            "CC_Base_R_Breast_098"
+          ],
+          [
+            106,
+            "CC_Base_L_RibsTwist_099"
+          ],
+          [
+            107,
+            "CC_Base_L_Breast_0100"
+          ],
+          [
+            108,
+            "Pouch1_0101"
+          ],
+          [
+            109,
+            "Pouch1.001_0102"
+          ],
+          [
+            110,
+            "Pouch1.002_0103"
+          ],
+          [
+            111,
+            "Pouch2_0104"
+          ],
+          [
+            112,
+            "Pouch2.001_0105"
+          ],
+          [
+            113,
+            "Pouch2.002_0106"
+          ],
+          [
+            114,
+            "Pouch3_0107"
+          ],
+          [
+            115,
+            "Pouch3.001_0108"
+          ],
+          [
+            116,
+            "Pouch3.002_0109"
+          ],
+          [
+            117,
+            "Pouch4_0110"
+          ],
+          [
+            118,
+            "Pouch4.001_0111"
+          ],
+          [
+            119,
+            "Pouch4.002_0112"
+          ]
+        ]
+      }
+    ],
+    "animations": [
+      {
+        "name": "Mark_Idle_Pose",
+        "duration": 16.633333206176758,
+        "channels": 321,
+        "paths": {
+          "translation": 112,
+          "scale": 97,
+          "rotation": 112
+        },
+        "targets": [
+          "CC_Base_L_ToeBaseShareBone_06",
+          "CC_Base_L_PinkyToe1_08",
+          "CC_Base_L_RingToe1_09",
+          "CC_Base_L_MidToe1_010",
+          "CC_Base_L_IndexToe1_011",
+          "CC_Base_L_BigToe1_012",
+          "CC_Base_L_ToeBase_07",
+          "CC_Base_L_Foot_05",
+          "CC_Base_L_CalfTwist02_014",
+          "CC_Base_L_CalfTwist01_013",
+          "CC_Base_L_KneeShareBone_015",
+          "CC_Base_L_Calf_04",
+          "CC_Base_L_ThighTwist02_017",
+          "CC_Base_L_ThighTwist01_016",
+          "CC_Base_L_Thigh_03"
+        ]
+      }
+    ],
+    "bounds_min": [
+      -55.45217,
+      -27.6618,
+      -179.58331
+    ],
+    "bounds_max": [
+      55.45215,
+      25.80479,
+      6e-05
+    ],
+    "dimensions": [
+      110.90432,
+      53.46658,
+      179.58338
+    ],
+    "mesh_nodes": [
+      {
+        "node": 121,
+        "name": "Object_121",
+        "triangles": 3398,
+        "bounds": [
+          [
+            -10.134,
+            -10.481,
+            -177.644
+          ],
+          [
+            9.887,
+            16.361,
+            -143.115
+          ]
+        ]
+      },
+      {
+        "node": 123,
+        "name": "Object_123",
+        "triangles": 256,
+        "bounds": [
+          [
+            -4.29,
+            -20.461,
+            -141.555
+          ],
+          [
+            4.104,
+            17.456,
+            -130.957
+          ]
+        ]
+      },
+      {
+        "node": 125,
+        "name": "Object_125",
+        "triangles": 26532,
+        "bounds": [
+          [
+            -16.076,
+            -16.186,
+            -179.583
+          ],
+          [
+            16.076,
+            16.617,
+            -151.888
+          ]
+        ]
+      },
+      {
+        "node": 127,
+        "name": "Object_127",
+        "triangles": 5324,
+        "bounds": [
+          [
+            -20.996,
+            -20.506,
+            -152.335
+          ],
+          [
+            20.919,
+            19.518,
+            -103.99
+          ]
+        ]
+      },
+      {
+        "node": 129,
+        "name": "Object_129",
+        "triangles": 6172,
+        "bounds": [
+          [
+            -55.452,
+            -0.609,
+            -107.082
+          ],
+          [
+            55.452,
+            18.924,
+            -85.035
+          ]
+        ]
+      },
+      {
+        "node": 131,
+        "name": "Object_131",
+        "triangles": 3456,
+        "bounds": [
+          [
+            -20.841,
+            -18.879,
+            -104.2
+          ],
+          [
+            21.568,
+            17.785,
+            -91.936
+          ]
+        ]
+      },
+      {
+        "node": 133,
+        "name": "Object_133",
+        "triangles": 1296,
+        "bounds": [
+          [
+            -18.673,
+            -26.769,
+            -107.042
+          ],
+          [
+            -3.187,
+            -14.616,
+            -84.668
+          ]
+        ]
+      },
+      {
+        "node": 135,
+        "name": "Object_135",
+        "triangles": 1056,
+        "bounds": [
+          [
+            -25.941,
+            -11.358,
+            -99.555
+          ],
+          [
+            -18.513,
+            10.224,
+            -72.33
+          ]
+        ]
+      },
+      {
+        "node": 137,
+        "name": "Object_137",
+        "triangles": 620,
+        "bounds": [
+          [
+            13.433,
+            -22.168,
+            -102.216
+          ],
+          [
+            28.007,
+            -3.381,
+            -72.611
+          ]
+        ]
+      },
+      {
+        "node": 139,
+        "name": "Object_139",
+        "triangles": 2188,
+        "bounds": [
+          [
+            -22.071,
+            -10.989,
+            -55.831
+          ],
+          [
+            -4.17,
+            10.975,
+            -38.796
+          ]
+        ]
+      },
+      {
+        "node": 141,
+        "name": "Object_141",
+        "triangles": 808,
+        "bounds": [
+          [
+            -22.522,
+            -15.165,
+            -121.1
+          ],
+          [
+            22.801,
+            19.996,
+            -105.128
+          ]
+        ]
+      },
+      {
+        "node": 143,
+        "name": "Object_143",
+        "triangles": 606,
+        "bounds": [
+          [
+            -11.094,
+            -11.15,
+            -153.925
+          ],
+          [
+            13.096,
+            8.833,
+            -137.601
+          ]
+        ]
+      },
+      {
+        "node": 145,
+        "name": "Object_145",
+        "triangles": 2524,
+        "bounds": [
+          [
+            -20.551,
+            17.026,
+            -125.575
+          ],
+          [
+            20.16,
+            25.805,
+            -105.514
+          ]
+        ]
+      },
+      {
+        "node": 147,
+        "name": "Object_147",
+        "triangles": 3148,
+        "bounds": [
+          [
+            -28.689,
+            -8.236,
+            -121.447
+          ],
+          [
+            28.558,
+            12.591,
+            -102.588
+          ]
+        ]
+      },
+      {
+        "node": 149,
+        "name": "Object_149",
+        "triangles": 1574,
+        "bounds": [
+          [
+            -3.931,
+            -27.662,
+            -106.068
+          ],
+          [
+            14.468,
+            -16.678,
+            -86.008
+          ]
+        ]
+      },
+      {
+        "node": 151,
+        "name": "Object_151",
+        "triangles": 1004,
+        "bounds": [
+          [
+            -9.619,
+            -2.919,
+            -166.077
+          ],
+          [
+            9.769,
+            15.74,
+            -161.98
+          ]
+        ]
+      },
+      {
+        "node": 153,
+        "name": "Object_153",
+        "triangles": 352,
+        "bounds": [
+          [
+            -7.298,
+            11.012,
+            -165.455
+          ],
+          [
+            7.298,
+            15.341,
+            -161.213
+          ]
+        ]
+      },
+      {
+        "node": 155,
+        "name": "Object_155",
+        "triangles": 5288,
+        "bounds": [
+          [
+            -24.648,
+            -14.564,
+            -28.967
+          ],
+          [
+            24.648,
+            19.548,
+            0.0
+          ]
+        ]
+      },
+      {
+        "node": 157,
+        "name": "Object_157",
+        "triangles": 8524,
+        "bounds": [
+          [
+            -48.387,
+            -17.602,
+            -155.484
+          ],
+          [
+            48.684,
+            16.877,
+            -92.204
+          ]
+        ]
+      },
+      {
+        "node": 159,
+        "name": "Object_159",
+        "triangles": 232,
+        "bounds": [
+          [
+            -19.776,
+            -7.095,
+            -152.311
+          ],
+          [
+            20.4,
+            -2.771,
+            -145.083
+          ]
+        ]
+      },
+      {
+        "node": 161,
+        "name": "Object_161",
+        "triangles": 7876,
+        "bounds": [
+          [
+            -24.275,
+            -15.46,
+            -105.197
+          ],
+          [
+            25.6,
+            13.965,
+            -12.452
+          ]
+        ]
+      },
+      {
+        "node": 163,
+        "name": "Object_163",
+        "triangles": 960,
+        "bounds": [
+          [
+            1.213,
+            8.118,
+            -166.37
+          ],
+          [
+            5.032,
+            11.925,
+            -162.555
+          ]
+        ]
+      },
+      {
+        "node": 165,
+        "name": "Object_165",
+        "triangles": 960,
+        "bounds": [
+          [
+            -5.032,
+            8.118,
+            -166.37
+          ],
+          [
+            -1.213,
+            11.925,
+            -162.555
+          ]
+        ]
+      }
+    ],
+    "nodes_all": [
+      {
+        "id": 0,
+        "name": "Sketchfab_model",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          1
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 1,
+        "name": "Mark_1_Olive_IdlePose.fbx",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          2
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 2,
+        "name": "Object_2",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          3
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 3,
+        "name": "RootNode",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          4,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 4,
+        "name": "Armature.001",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          5
+        ],
+        "translation": null,
+        "rotation": [
+          -0.70710688829422,
+          0.0,
+          0.0,
+          0.7071067094802856
+        ],
+        "scale": null
+      },
+      {
+        "id": 5,
+        "name": "Object_5",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          6,
+          121,
+          123,
+          125,
+          127,
+          129,
+          131,
+          133,
+          135,
+          137,
+          139,
+          141,
+          143,
+          145,
+          147,
+          149,
+          151,
+          153,
+          155,
+          157,
+          159,
+          161,
+          163,
+          165,
+          120,
+          122,
+          124,
+          126,
+          128,
+          130,
+          132,
+          134,
+          136,
+          138,
+          140,
+          142,
+          144,
+          146,
+          148,
+          150,
+          152,
+          154,
+          156,
+          158,
+          160,
+          162,
+          164
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 6,
+        "name": "_rootJoint",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          7
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 7,
+        "name": "RL_BoneRoot_00",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          8
+        ],
+        "translation": null,
+        "rotation": [
+          0.7071068286895752,
+          0.0,
+          0.0,
+          0.7071067094802856
+        ],
+        "scale": null
+      },
+      {
+        "id": 8,
+        "name": "CC_Base_Hip_01",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          9,
+          40
+        ],
+        "translation": [
+          -1.2266566753387451,
+          93.54181671142578,
+          -2.9535372257232666
+        ],
+        "rotation": [
+          -0.10482408106327057,
+          0.01868511363863945,
+          0.008583792485296726,
+          0.9942781925201416
+        ],
+        "scale": null
+      },
+      {
+        "id": 9,
+        "name": "CC_Base_Pelvis_02",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          10,
+          25
+        ],
+        "translation": [
+          -2.384185791015625e-07,
+          -1.5029683709144592e-05,
+          -6.3925981521606445e-06
+        ],
+        "rotation": [
+          0.06798133254051208,
+          -0.06798142194747925,
+          0.7038317322731018,
+          0.703830897808075
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 10,
+        "name": "CC_Base_L_Thigh_03",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          11,
+          23
+        ],
+        "translation": [
+          -2.6505849361419678,
+          -9.480531692504883,
+          0.04582107067108154
+        ],
+        "rotation": [
+          0.10219643265008926,
+          -0.05337000638246536,
+          0.7408789396286011,
+          0.6616690754890442
+        ],
+        "scale": [
+          1.0000008344650269,
+          0.9999999403953552,
+          0.999998927116394
+        ]
+      },
+      {
+        "id": 11,
+        "name": "CC_Base_L_Calf_04",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          12,
+          20,
+          22
+        ],
+        "translation": [
+          0.0014650523662567139,
+          40.441917419433594,
+          -0.0008850991725921631
+        ],
+        "rotation": [
+          -0.06755051016807556,
+          0.06979390978813171,
+          0.7070644497871399,
+          0.7004467248916626
+        ],
+        "scale": [
+          1.0000001192092896,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 12,
+        "name": "CC_Base_L_Foot_05",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          13,
+          14
+        ],
+        "translation": [
+          38.341102600097656,
+          0.0008958578109741211,
+          -0.005529999732971191
+        ],
+        "rotation": [
+          0.37657514214515686,
+          -0.428769052028656,
+          -0.6201724410057068,
+          0.5382698178291321
+        ],
+        "scale": [
+          0.9999781250953674,
+          0.999998927116394,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 13,
+        "name": "CC_Base_L_ToeBaseShareBone_06",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -4.2766332626342773e-05,
+          18.75316047668457,
+          -0.00884556770324707
+        ],
+        "rotation": [
+          0.1763819456100464,
+          0.025485919788479805,
+          -0.019681310281157494,
+          0.9837949872016907
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 14,
+        "name": "CC_Base_L_ToeBase_07",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "translation": [
+          -0.0007175281643867493,
+          18.753143310546875,
+          -0.00863790512084961
+        ],
+        "rotation": [
+          0.1860412210226059,
+          0.025464128702878952,
+          -0.01959650218486786,
+          0.9820165038108826
+        ],
+        "scale": [
+          0.9999997019767761,
+          0.9999997019767761,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 15,
+        "name": "CC_Base_L_PinkyToe1_08",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.6382832527160645,
+          0.3041336238384247,
+          -0.4857100248336792
+        ],
+        "rotation": [
+          -0.32202813029289246,
+          0.08748529851436615,
+          0.03868362307548523,
+          0.941885232925415
+        ],
+        "scale": [
+          1.0,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 16,
+        "name": "CC_Base_L_RingToe1_09",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.3478257656097412,
+          1.2361156940460205,
+          -0.1013357937335968
+        ],
+        "rotation": [
+          -0.3643968999385834,
+          0.10272782295942307,
+          0.061971087008714676,
+          0.9234833717346191
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": 17,
+        "name": "CC_Base_L_MidToe1_010",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.059208393096924e-05,
+          2.114798069000244,
+          3.863871097564697e-05
+        ],
+        "rotation": [
+          -0.29936161637306213,
+          0.09723351150751114,
+          0.07315342128276825,
+          0.9463492035865784
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 18,
+        "name": "CC_Base_L_IndexToe1_011",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.5183240175247192,
+          2.215172290802002,
+          0.2766817808151245
+        ],
+        "rotation": [
+          -0.31237149238586426,
+          0.1037931889295578,
+          0.08486861735582352,
+          0.9404511451721191
+        ],
+        "scale": null
+      },
+      {
+        "id": 19,
+        "name": "CC_Base_L_BigToe1_012",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          3.517819404602051,
+          1.9816787242889404,
+          0.016960173845291138
+        ],
+        "rotation": [
+          -0.14895573258399963,
+          0.07184120267629623,
+          0.07929083704948425,
+          0.9830381274223328
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.000000238418579
+        ]
+      },
+      {
+        "id": 20,
+        "name": "CC_Base_L_CalfTwist01_013",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          21
+        ],
+        "translation": [
+          -4.474073648452759e-06,
+          -2.898275852203369e-06,
+          6.556510925292969e-07
+        ],
+        "rotation": [
+          0.013979906216263771,
+          0.013978024944663048,
+          -0.7069690227508545,
+          0.7069681882858276
+        ],
+        "scale": [
+          0.9999788403511047,
+          0.9999998211860657,
+          0.9999982714653015
+        ]
+      },
+      {
+        "id": 21,
+        "name": "CC_Base_L_CalfTwist02_014",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -0.0003870725631713867,
+          19.170536041259766,
+          -0.0028302669525146484
+        ],
+        "rotation": [
+          -3.4115976177417906e-06,
+          -0.009767794981598854,
+          4.6661494934596703e-07,
+          0.9999523162841797
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999998211860657,
+          1.0
+        ]
+      },
+      {
+        "id": 22,
+        "name": "CC_Base_L_KneeShareBone_015",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -8.296221494674683e-06,
+          -3.1366944313049316e-06,
+          -4.76837158203125e-07
+        ],
+        "rotation": [
+          0.003670122241601348,
+          -0.004789325408637524,
+          -0.708690345287323,
+          0.7054938673973083
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 23,
+        "name": "CC_Base_L_ThighTwist01_016",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          24
+        ],
+        "translation": [
+          5.066394805908203e-06,
+          2.6345252990722656e-05,
+          4.0531158447265625e-06
+        ],
+        "rotation": [
+          -8.930457624956034e-06,
+          9.816250212679734e-07,
+          -6.29245478194207e-05,
+          1.0
+        ],
+        "scale": [
+          0.9999787211418152,
+          1.000000238418579,
+          0.9999986290931702
+        ]
+      },
+      {
+        "id": 24,
+        "name": "CC_Base_L_ThighTwist02_017",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -0.0018240511417388916,
+          20.222253799438477,
+          -0.00021457672119140625
+        ],
+        "rotation": [
+          -6.278047749219695e-06,
+          -0.00019068902474828064,
+          5.4670977988280356e-05,
+          1.0
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999995231628418,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 25,
+        "name": "CC_Base_R_Thigh_018",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          26,
+          28
+        ],
+        "translation": [
+          -2.666827917098999,
+          9.480530738830566,
+          0.0458793044090271
+        ],
+        "rotation": [
+          -0.08001524955034256,
+          0.152223140001297,
+          0.6518039107322693,
+          0.738632082939148
+        ],
+        "scale": [
+          1.0000017881393433,
+          0.9999999403953552,
+          0.9999980926513672
+        ]
+      },
+      {
+        "id": 26,
+        "name": "CC_Base_R_ThighTwist01_019",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          27
+        ],
+        "translation": [
+          -4.827976226806641e-06,
+          1.8090009689331055e-05,
+          3.814697265625e-06
+        ],
+        "rotation": [
+          -1.5201990208879579e-05,
+          -2.2205294953892007e-06,
+          8.067661838140339e-06,
+          1.0
+        ],
+        "scale": [
+          0.9999802112579346,
+          1.0,
+          0.9999984502792358
+        ]
+      },
+      {
+        "id": 27,
+        "name": "CC_Base_R_ThighTwist02_020",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -0.00039936602115631104,
+          19.697607040405273,
+          3.8743019104003906e-05
+        ],
+        "rotation": [
+          -2.719461633660103e-07,
+          9.040393342729658e-05,
+          -2.807936994031479e-07,
+          1.0
+        ],
+        "scale": [
+          1.0000003576278687,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 28,
+        "name": "CC_Base_R_Calf_021",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          29,
+          37,
+          38
+        ],
+        "translation": [
+          -0.0014540553092956543,
+          39.39808654785156,
+          -0.0013720989227294922
+        ],
+        "rotation": [
+          0.7007187008857727,
+          0.6984623670578003,
+          -0.10152393579483032,
+          0.10409857332706451
+        ],
+        "scale": [
+          1.000000238418579,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 29,
+        "name": "CC_Base_R_Foot_022",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          30,
+          36
+        ],
+        "translation": [
+          39.37051773071289,
+          0.0009077787399291992,
+          0.006149768829345703
+        ],
+        "rotation": [
+          0.5942302942276001,
+          0.5345203280448914,
+          -0.40719810128211975,
+          -0.4420046806335449
+        ],
+        "scale": [
+          0.9999797344207764,
+          0.9999985694885254,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 30,
+        "name": "CC_Base_R_ToeBase_023",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "translation": [
+          7.727369666099548e-05,
+          19.06924819946289,
+          2.0503997802734375e-05
+        ],
+        "rotation": [
+          0.18465162813663483,
+          -0.02544509992003441,
+          0.01957084611058235,
+          0.9822796583175659
+        ],
+        "scale": [
+          0.9999994039535522,
+          1.000000238418579,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 31,
+        "name": "CC_Base_R_PinkyToe1_024",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          2.616497278213501,
+          0.30159851908683777,
+          -0.4817430377006531
+        ],
+        "rotation": [
+          -0.33713850378990173,
+          -0.08393832296133041,
+          -0.03975801542401314,
+          0.9368624687194824
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 32,
+        "name": "CC_Base_R_BigToe1_025",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.4887938499450684,
+          1.9653103351593018,
+          0.016776472330093384
+        ],
+        "rotation": [
+          -0.16478684544563293,
+          -0.06943636387586594,
+          -0.08130066841840744,
+          0.9805172681808472
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 33,
+        "name": "CC_Base_R_IndexToe1_026",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.5058176517486572,
+          2.196833610534668,
+          0.2743240296840668
+        ],
+        "rotation": [
+          -0.32765600085258484,
+          -0.10100473463535309,
+          -0.08570853620767593,
+          0.9354643821716309
+        ],
+        "scale": null
+      },
+      {
+        "id": 34,
+        "name": "CC_Base_R_MidToe1_027",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          7.3015689849853516e-06,
+          2.097287654876709,
+          -4.965066909790039e-05
+        ],
+        "rotation": [
+          -0.3149019479751587,
+          -0.09429217875003815,
+          -0.07419790327548981,
+          0.9415096640586853
+        ],
+        "scale": [
+          1.0,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 35,
+        "name": "CC_Base_R_RingToe1_028",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.3366786241531372,
+          1.2258644104003906,
+          -0.10056588053703308
+        ],
+        "rotation": [
+          -0.37932589650154114,
+          -0.09944435209035873,
+          -0.0626022070646286,
+          0.91777104139328
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 36,
+        "name": "CC_Base_R_ToeBaseShareBone_029",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -0.00016520917415618896,
+          19.069271087646484,
+          0.0002429485321044922
+        ],
+        "rotation": [
+          0.1765969693660736,
+          -0.025485800579190254,
+          0.01967271789908409,
+          0.9837565422058105
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 37,
+        "name": "CC_Base_R_KneeShareBone_030",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.1831521987915039e-05,
+          -6.556510925292969e-07,
+          -1.0728836059570312e-06
+        ],
+        "rotation": [
+          0.7075567245483398,
+          0.7066155076026917,
+          -0.004694637376815081,
+          -0.005994617938995361
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999997019767761,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 38,
+        "name": "CC_Base_R_CalfTwist01_031",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          39
+        ],
+        "translation": [
+          8.106231689453125e-06,
+          3.5762786865234375e-07,
+          -1.3113021850585938e-06
+        ],
+        "rotation": [
+          0.7068877816200256,
+          0.7069067358970642,
+          -0.017163459211587906,
+          0.01726132072508335
+        ],
+        "scale": [
+          0.9999803900718689,
+          0.9999998211860657,
+          0.9999980926513672
+        ]
+      },
+      {
+        "id": 39,
+        "name": "CC_Base_R_CalfTwist02_032",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -0.00011590123176574707,
+          19.685277938842773,
+          -0.00011920928955078125
+        ],
+        "rotation": [
+          6.678544013993815e-05,
+          0.01218173373490572,
+          1.245456951437518e-05,
+          0.9999257922172546
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 40,
+        "name": "CC_Base_Waist_033",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          41,
+          108,
+          111,
+          114,
+          117
+        ],
+        "translation": [
+          -0.01490803062915802,
+          10.431913375854492,
+          2.1465189456939697
+        ],
+        "rotation": [
+          0.07686541229486465,
+          -0.0005596418050117791,
+          0.002745771547779441,
+          0.9970376491546631
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 41,
+        "name": "CC_Base_Spine01_034",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          42
+        ],
+        "translation": [
+          -0.009563729166984558,
+          5.307247638702393,
+          0.17599689960479736
+        ],
+        "rotation": [
+          0.033958517014980316,
+          7.590630411868915e-05,
+          0.001792360213585198,
+          0.9994216561317444
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999997615814209,
+          0.9999997019767761
+        ]
+      },
+      {
+        "id": 42,
+        "name": "CC_Base_Spine02_035",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          43,
+          56,
+          80,
+          104,
+          106
+        ],
+        "translation": [
+          0.04175969958305359,
+          13.266644477844238,
+          0.2687131464481354
+        ],
+        "rotation": [
+          -0.018777966499328613,
+          0.0009478849824517965,
+          -0.007814515382051468,
+          0.9997926950454712
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999998807907104,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 43,
+        "name": "CC_Base_NeckTwist01_036",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          44
+        ],
+        "translation": [
+          0.020681187510490417,
+          27.562978744506836,
+          0.08649086952209473
+        ],
+        "rotation": [
+          0.26524174213409424,
+          -0.01954060047864914,
+          0.014809021726250648,
+          0.9638701677322388
+        ],
+        "scale": [
+          1.0,
+          1.0000001192092896,
+          1.000000238418579
+        ]
+      },
+      {
+        "id": 44,
+        "name": "CC_Base_NeckTwist02_037",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          45
+        ],
+        "translation": [
+          1.73225998878479e-07,
+          5.233618259429932,
+          -2.851337194442749e-05
+        ],
+        "rotation": [
+          8.552593499189243e-06,
+          -1.4248247680370696e-05,
+          -5.328329280018806e-07,
+          1.0
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 45,
+        "name": "CC_Base_Head_038",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          46
+        ],
+        "translation": [
+          -5.688518285751343e-06,
+          5.233614444732666,
+          -0.00018253736197948456
+        ],
+        "rotation": [
+          0.9991662502288818,
+          -0.01700473576784134,
+          -0.014923163689672947,
+          -0.033984359353780746
+        ],
+        "scale": [
+          1.0,
+          0.9999997019767761,
+          0.9999963641166687
+        ]
+      },
+      {
+        "id": 46,
+        "name": "CC_Base_FacialBone_039",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          47,
+          52,
+          53,
+          54
+        ],
+        "translation": [
+          -2.682209014892578e-07,
+          7.644481956958771e-05,
+          -1.952052116394043e-06
+        ],
+        "rotation": [
+          0.5837337970733643,
+          -0.39907968044281006,
+          0.5837286114692688,
+          -0.3990631401538849
+        ],
+        "scale": [
+          1.000000238418579,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 47,
+        "name": "CC_Base_JawRoot_040",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          48,
+          51
+        ],
+        "translation": [
+          1.2566702365875244,
+          2.2347867488861084,
+          3.674626350402832e-05
+        ],
+        "rotation": [
+          2.13862003874965e-05,
+          1.0,
+          3.6100391298532486e-07,
+          7.160107634263113e-05
+        ],
+        "scale": null
+      },
+      {
+        "id": 48,
+        "name": "CC_Base_Tongue01_041",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          49
+        ],
+        "translation": [
+          0.9081287980079651,
+          2.9297006130218506,
+          -0.0001696944236755371
+        ],
+        "rotation": [
+          -1.4438945072470233e-05,
+          6.5194251419598e-07,
+          -0.05349027365446091,
+          0.9985684752464294
+        ],
+        "scale": [
+          1.0,
+          0.9999998211860657,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 49,
+        "name": "CC_Base_Tongue02_042",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          50
+        ],
+        "translation": [
+          -2.627278445288539e-05,
+          1.0310527086257935,
+          -3.5762786865234375e-07
+        ],
+        "rotation": [
+          -1.0225682672171388e-05,
+          6.713691504955932e-07,
+          -0.07746348530054092,
+          0.996995210647583
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 50,
+        "name": "CC_Base_Tongue03_043",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.939579129219055e-05,
+          1.4416519403457642,
+          -2.9802322387695312e-08
+        ],
+        "rotation": [
+          0.707192599773407,
+          0.7070209980010986,
+          1.1224678786447839e-07,
+          1.511640107310086e-06
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999995231628418,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 51,
+        "name": "CC_Base_Teeth02_044",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          0.8634791374206543,
+          2.955832004547119,
+          -0.0006330609321594238
+        ],
+        "rotation": [
+          4.404344144859351e-05,
+          0.00018161814659833908,
+          0.7071120738983154,
+          0.7071014642715454
+        ],
+        "scale": [
+          0.9999997615814209,
+          0.9999999403953552,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 52,
+        "name": "CC_Base_R_Eye_045",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          6.558939456939697,
+          6.937801837921143,
+          -2.965442657470703
+        ],
+        "rotation": [
+          0.7071121335029602,
+          -3.6779856600333005e-06,
+          0.7071014046669006,
+          3.6780415939574596e-06
+        ],
+        "scale": null
+      },
+      {
+        "id": 53,
+        "name": "CC_Base_L_Eye_046",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          6.558843612670898,
+          6.937678337097168,
+          2.966496706008911
+        ],
+        "rotation": [
+          0.7071078419685364,
+          6.43442092496116e-07,
+          0.7071057558059692,
+          -6.434440251723572e-07
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998211860657,
+          1.0
+        ]
+      },
+      {
+        "id": 54,
+        "name": "CC_Base_UpperJaw_047",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          55
+        ],
+        "translation": [
+          2.534104108810425,
+          5.9792046546936035,
+          8.556246757507324e-05
+        ],
+        "rotation": [
+          2.9648001600435236e-06,
+          1.0,
+          5.3756870329380035e-05,
+          -7.533851942298497e-08
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": 55,
+        "name": "CC_Base_Teeth01_048",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          0.025700125843286514,
+          0.03094089776277542,
+          -0.00019037723541259766
+        ],
+        "rotation": [
+          7.175546670623589e-06,
+          -4.099214856978506e-05,
+          0.7071186304092407,
+          0.7070949077606201
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 56,
+        "name": "CC_Base_L_Clavicle_049",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          57
+        ],
+        "translation": [
+          8.602437019348145,
+          24.155542373657227,
+          -2.7117533683776855
+        ],
+        "rotation": [
+          0.059049319475889206,
+          0.01820049248635769,
+          -0.8608897924423218,
+          0.5050254464149475
+        ],
+        "scale": [
+          1.0000001192092896,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 57,
+        "name": "CC_Base_L_Upperarm_050",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          58,
+          78
+        ],
+        "translation": [
+          9.751319885253906e-05,
+          13.270158767700195,
+          0.00025331974029541016
+        ],
+        "rotation": [
+          0.8505765199661255,
+          0.48078903555870056,
+          -0.13751965761184692,
+          -0.16263411939144135
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999997019767761,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 58,
+        "name": "CC_Base_L_Forearm_051",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          59,
+          61,
+          62
+        ],
+        "translation": [
+          25.119369506835938,
+          -0.00012969970703125,
+          -0.0001049041748046875
+        ],
+        "rotation": [
+          0.6534717082977295,
+          0.6760143637657166,
+          -0.2701416015625,
+          -0.20737123489379883
+        ],
+        "scale": [
+          1.0,
+          0.9999998807907104,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 59,
+        "name": "CC_Base_L_ForearmTwist01_052",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          60
+        ],
+        "translation": [
+          4.9114227294921875e-05,
+          -3.337860107421875e-06,
+          -1.3828277587890625e-05
+        ],
+        "rotation": [
+          -4.960166961609502e-07,
+          0.04721113666892052,
+          -3.020853682755842e-07,
+          0.998884916305542
+        ],
+        "scale": [
+          0.9999998211860657,
+          1.0000001192092896,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 60,
+        "name": "CC_Base_L_ForearmTwist02_053",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -8.7738037109375e-05,
+          10.321083068847656,
+          0.00032067298889160156
+        ],
+        "rotation": [
+          -4.932209321850678e-06,
+          -0.09493304789066315,
+          -1.698955315987405e-06,
+          0.9954837560653687
+        ],
+        "scale": [
+          0.9999995827674866,
+          1.0,
+          0.9999996423721313
+        ]
+      },
+      {
+        "id": 61,
+        "name": "CC_Base_L_ElbowShareBone_054",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          5.316734313964844e-05,
+          7.62939453125e-06,
+          -8.58306884765625e-06
+        ],
+        "rotation": [
+          -0.20367249846458435,
+          0.06964359432458878,
+          0.0076210531406104565,
+          0.9765291810035706
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          0.9999997615814209
+        ]
+      },
+      {
+        "id": 62,
+        "name": "CC_Base_L_Hand_055",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          63,
+          66,
+          69,
+          72,
+          75
+        ],
+        "translation": [
+          -1.8298625946044922e-05,
+          20.642196655273438,
+          -1.2129545211791992e-05
+        ],
+        "rotation": [
+          -0.06952453404664993,
+          -0.04901980236172676,
+          -0.024675440043210983,
+          0.9960695505142212
+        ],
+        "scale": [
+          0.9999997615814209,
+          1.000000238418579,
+          0.9999997019767761
+        ]
+      },
+      {
+        "id": 63,
+        "name": "CC_Base_L_Mid1_056",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          64
+        ],
+        "translation": [
+          -0.1993398666381836,
+          10.993205070495605,
+          2.2296667098999023
+        ],
+        "rotation": [
+          0.020487738773226738,
+          -0.04573957249522209,
+          -0.5777226686477661,
+          0.814693033695221
+        ],
+        "scale": [
+          0.9999997615814209,
+          1.0,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 64,
+        "name": "CC_Base_L_Mid2_057",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          65
+        ],
+        "translation": [
+          -3.0994415283203125e-06,
+          4.151137351989746,
+          -4.291534423828125e-06
+        ],
+        "rotation": [
+          -0.060545213520526886,
+          0.0029444850515574217,
+          -0.5235065221786499,
+          0.8498626351356506
+        ],
+        "scale": [
+          0.9999995827674866,
+          0.9999999403953552,
+          0.9999997615814209
+        ]
+      },
+      {
+        "id": 65,
+        "name": "CC_Base_L_Mid3_058",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -7.679685950279236e-06,
+          2.948155641555786,
+          -2.1457672119140625e-06
+        ],
+        "rotation": [
+          0.019163597375154495,
+          0.029717326164245605,
+          -0.5685700178146362,
+          0.8218745589256287
+        ],
+        "scale": [
+          1.000000238418579,
+          1.0000003576278687,
+          1.0
+        ]
+      },
+      {
+        "id": 66,
+        "name": "CC_Base_L_Index1_059",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          67
+        ],
+        "translation": [
+          0.0006721019744873047,
+          10.388458251953125,
+          4.709770679473877
+        ],
+        "rotation": [
+          0.07558421045541763,
+          0.008614854887127876,
+          -0.5550932288169861,
+          0.8283020853996277
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999999403953552,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 67,
+        "name": "CC_Base_L_Index2_060",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          68
+        ],
+        "translation": [
+          1.239776611328125e-05,
+          3.9580154418945312,
+          -9.5367431640625e-06
+        ],
+        "rotation": [
+          -0.035378411412239075,
+          -0.0024571255780756474,
+          -0.5467072129249573,
+          0.836572527885437
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.000000238418579,
+          1.0
+        ]
+      },
+      {
+        "id": 68,
+        "name": "CC_Base_L_Index3_061",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          7.748603820800781e-07,
+          2.732245922088623,
+          -9.5367431640625e-07
+        ],
+        "rotation": [
+          0.009962757118046284,
+          0.019935065880417824,
+          -0.5922650098800659,
+          0.8054350018501282
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999997019767761,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 69,
+        "name": "CC_Base_L_Ring1_062",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          70
+        ],
+        "translation": [
+          7.11679458618164e-05,
+          10.404632568359375,
+          7.867813110351562e-06
+        ],
+        "rotation": [
+          -0.048281941562891006,
+          -0.06192082166671753,
+          -0.5966250896453857,
+          0.7986696362495422
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": 70,
+        "name": "CC_Base_L_Ring2_063",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          71
+        ],
+        "translation": [
+          1.138448715209961e-05,
+          4.238132953643799,
+          1.7285346984863281e-06
+        ],
+        "rotation": [
+          0.008322740904986858,
+          0.003618571674451232,
+          -0.4974213242530823,
+          0.867461621761322
+        ],
+        "scale": [
+          1.0000003576278687,
+          1.000000238418579,
+          0.9999997615814209
+        ]
+      },
+      {
+        "id": 71,
+        "name": "CC_Base_L_Ring3_064",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.0482966899871826e-05,
+          2.7231853008270264,
+          2.86102294921875e-06
+        ],
+        "rotation": [
+          0.006460635922849178,
+          -0.008737113326787949,
+          -0.5688111186027527,
+          0.8223965167999268
+        ],
+        "scale": [
+          0.9999998211860657,
+          0.9999998211860657,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 72,
+        "name": "CC_Base_L_Pinky1_065",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          73
+        ],
+        "translation": [
+          0.0006656944751739502,
+          9.647089958190918,
+          -2.9018306732177734
+        ],
+        "rotation": [
+          -0.0809570848941803,
+          -0.10250775516033173,
+          -0.6621161103248596,
+          0.7379297614097595
+        ],
+        "scale": [
+          0.9999996423721313,
+          0.9999998807907104,
+          1.0
+        ]
+      },
+      {
+        "id": 73,
+        "name": "CC_Base_L_Pinky2_066",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          74
+        ],
+        "translation": [
+          3.0081719160079956e-05,
+          3.437110185623169,
+          8.344650268554688e-07
+        ],
+        "rotation": [
+          -0.016814924776554108,
+          0.005359922535717487,
+          -0.4721282124519348,
+          0.8813531994819641
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 74,
+        "name": "CC_Base_L_Pinky3_067",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          3.773719072341919e-06,
+          1.8238921165466309,
+          -6.109476089477539e-07
+        ],
+        "rotation": [
+          0.0077498541213572025,
+          0.007216944824904203,
+          -0.6345657110214233,
+          0.7727963924407959
+        ],
+        "scale": [
+          1.0000001192092896,
+          1.0000001192092896,
+          1.000000238418579
+        ]
+      },
+      {
+        "id": 75,
+        "name": "CC_Base_L_Thumb1_068",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          76
+        ],
+        "translation": [
+          1.0056774616241455,
+          4.315624237060547,
+          4.346522808074951
+        ],
+        "rotation": [
+          0.2525876760482788,
+          0.013823040761053562,
+          -0.3729960322380066,
+          0.892682671546936
+        ],
+        "scale": [
+          0.9999999403953552,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 76,
+        "name": "CC_Base_L_Thumb2_069",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          77
+        ],
+        "translation": [
+          9.5367431640625e-07,
+          3.5721709728240967,
+          4.7683712978141557e-07
+        ],
+        "rotation": [
+          -0.18767763674259186,
+          0.013952342793345451,
+          -0.011904421262443066,
+          0.9820594191551208
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0000001192092896,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 77,
+        "name": "CC_Base_L_Thumb3_070",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.430511474609375e-06,
+          3.9447507858276367,
+          -9.5367431640625e-07
+        ],
+        "rotation": [
+          -0.7891398072242737,
+          -0.00524185923859477,
+          0.005687260534614325,
+          0.6141649484634399
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 78,
+        "name": "CC_Base_L_UpperarmTwist01_071",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          79
+        ],
+        "translation": [
+          3.159046173095703e-05,
+          4.2438507080078125e-05,
+          -5.245208740234375e-06
+        ],
+        "rotation": [
+          0.7059444189071655,
+          0.7059448957443237,
+          -0.04052426293492317,
+          0.04052262753248215
+        ],
+        "scale": [
+          1.0,
+          0.9999998807907104,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 79,
+        "name": "CC_Base_L_UpperarmTwist02_072",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.743171691894531e-05,
+          12.559732437133789,
+          -0.00010538101196289062
+        ],
+        "rotation": [
+          -1.5802578445800464e-06,
+          0.057308997958898544,
+          8.171817853508401e-07,
+          0.9983565807342529
+        ],
+        "scale": [
+          1.0000001192092896,
+          1.000000238418579,
+          1.0000003576278687
+        ]
+      },
+      {
+        "id": 80,
+        "name": "CC_Base_R_Clavicle_073",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          81
+        ],
+        "translation": [
+          -8.57581901550293,
+          24.187667846679688,
+          -2.7054526805877686
+        ],
+        "rotation": [
+          0.06005427613854408,
+          -0.018197733908891678,
+          0.8627006411552429,
+          0.5018066763877869
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999998807907104,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 81,
+        "name": "CC_Base_R_Upperarm_074",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          82,
+          84
+        ],
+        "translation": [
+          -0.00012373924255371094,
+          13.270155906677246,
+          0.0002410411834716797
+        ],
+        "rotation": [
+          -0.018680071458220482,
+          -0.15388190746307373,
+          0.2636219561100006,
+          0.9520898461341858
+        ],
+        "scale": [
+          1.0,
+          0.9999998211860657,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 82,
+        "name": "CC_Base_R_UpperarmTwist01_075",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          83
+        ],
+        "translation": [
+          -4.4465065002441406e-05,
+          4.369020462036133e-05,
+          1.7642974853515625e-05
+        ],
+        "rotation": [
+          4.776221089741739e-07,
+          0.05730940401554108,
+          2.761253767857852e-07,
+          0.9983564615249634
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          1.000000238418579
+        ]
+      },
+      {
+        "id": 83,
+        "name": "CC_Base_R_UpperarmTwist02_076",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -6.508827209472656e-05,
+          12.559663772583008,
+          -2.86102294921875e-05
+        ],
+        "rotation": [
+          -1.5354814877355238e-06,
+          -0.05731019005179405,
+          -1.0158803434023866e-06,
+          0.9983565211296082
+        ],
+        "scale": [
+          1.0,
+          0.9999998807907104,
+          0.9999997615814209
+        ]
+      },
+      {
+        "id": 84,
+        "name": "CC_Base_R_Forearm_077",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          85,
+          87,
+          88
+        ],
+        "translation": [
+          0.0001800060272216797,
+          25.119394302368164,
+          -0.0001163482666015625
+        ],
+        "rotation": [
+          0.38240793347358704,
+          0.051602285355329514,
+          0.021392354741692543,
+          0.9223034977912903
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999997615814209,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 85,
+        "name": "CC_Base_R_ForearmTwist01_078",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          86
+        ],
+        "translation": [
+          3.814697265625e-06,
+          -6.198883056640625e-06,
+          9.5367431640625e-07
+        ],
+        "rotation": [
+          -8.152538839567569e-07,
+          -0.05596078187227249,
+          5.503429747477639e-07,
+          0.998432993888855
+        ],
+        "scale": [
+          0.9999997615814209,
+          0.9999997615814209,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 86,
+        "name": "CC_Base_R_ForearmTwist02_079",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          6.592273712158203e-05,
+          10.321138381958008,
+          0.00017440319061279297
+        ],
+        "rotation": [
+          -4.703176728071412e-06,
+          0.11239318549633026,
+          1.4939944321668008e-06,
+          0.9936637878417969
+        ],
+        "scale": [
+          1.0,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 87,
+        "name": "CC_Base_R_ElbowShareBone_080",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.337860107421875e-06,
+          1.9073486328125e-06,
+          0.0
+        ],
+        "rotation": [
+          -0.2035682648420334,
+          -0.08249891549348831,
+          -0.00906367227435112,
+          0.9755366444587708
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 88,
+        "name": "CC_Base_R_Hand_081",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          89,
+          92,
+          95,
+          98,
+          101
+        ],
+        "translation": [
+          -1.1920928955078125e-05,
+          20.642162322998047,
+          -8.58306884765625e-06
+        ],
+        "rotation": [
+          -0.07280418276786804,
+          0.05764135718345642,
+          0.022006534039974213,
+          0.9954359531402588
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 89,
+        "name": "CC_Base_R_Mid1_082",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          90
+        ],
+        "translation": [
+          0.07714200019836426,
+          10.781230926513672,
+          2.7049007415771484
+        ],
+        "rotation": [
+          0.04790803790092468,
+          0.03440459072589874,
+          0.5302011966705322,
+          0.8458179831504822
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.000000238418579,
+          1.0
+        ]
+      },
+      {
+        "id": 90,
+        "name": "CC_Base_R_Mid2_083",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          91
+        ],
+        "translation": [
+          1.9073486328125e-06,
+          4.678566932678223,
+          -2.86102294921875e-06
+        ],
+        "rotation": [
+          0.028519874438643456,
+          0.012041396461427212,
+          0.6447919607162476,
+          0.7637309432029724
+        ],
+        "scale": [
+          1.0000001192092896,
+          0.9999998211860657,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 91,
+        "name": "CC_Base_R_Mid3_084",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          7.152557373046875e-06,
+          2.619804859161377,
+          1.9073486328125e-06
+        ],
+        "rotation": [
+          -0.030700653791427612,
+          0.013700850307941437,
+          0.6506379246711731,
+          0.7586435675621033
+        ],
+        "scale": [
+          1.0000001192092896,
+          1.0000004768371582,
+          1.0000004768371582
+        ]
+      },
+      {
+        "id": 92,
+        "name": "CC_Base_R_Ring1_085",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          93
+        ],
+        "translation": [
+          -2.956390380859375e-05,
+          10.477954864501953,
+          -5.245208740234375e-06
+        ],
+        "rotation": [
+          0.02028031088411808,
+          0.0934704914689064,
+          0.5105407238006592,
+          0.8545175194740295
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0000001192092896,
+          1.0
+        ]
+      },
+      {
+        "id": 93,
+        "name": "CC_Base_R_Ring2_086",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          94
+        ],
+        "translation": [
+          1.1920928955078125e-06,
+          4.079726696014404,
+          -9.5367431640625e-07
+        ],
+        "rotation": [
+          -0.08582653105258942,
+          -0.008910284377634525,
+          0.490019291639328,
+          0.8674303889274597
+        ],
+        "scale": [
+          1.0,
+          0.9999997615814209,
+          0.9999997615814209
+        ]
+      },
+      {
+        "id": 94,
+        "name": "CC_Base_R_Ring3_087",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -7.271766662597656e-06,
+          2.7735676765441895,
+          -2.384185791015625e-06
+        ],
+        "rotation": [
+          0.04464931786060333,
+          -0.04366961866617203,
+          0.7490010261535645,
+          0.6596187353134155
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 95,
+        "name": "CC_Base_R_Thumb1_088",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          96
+        ],
+        "translation": [
+          -0.3969430923461914,
+          3.506326675415039,
+          3.9722557067871094
+        ],
+        "rotation": [
+          0.30672580003738403,
+          -0.05936245620250702,
+          0.39847642183303833,
+          0.862329363822937
+        ],
+        "scale": [
+          0.9999998211860657,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "id": 96,
+        "name": "CC_Base_R_Thumb2_089",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          97
+        ],
+        "translation": [
+          -2.384185791015625e-07,
+          4.393059730529785,
+          1.239776611328125e-05
+        ],
+        "rotation": [
+          -0.17765016853809357,
+          -0.00961280521005392,
+          -0.13601216673851013,
+          0.9746019244194031
+        ],
+        "scale": [
+          1.0,
+          1.0000001192092896,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 97,
+        "name": "CC_Base_R_Thumb3_090",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          3.814697265625e-06,
+          4.740828990936279,
+          -5.7220458984375e-06
+        ],
+        "rotation": [
+          -0.8440673351287842,
+          -0.05488470941781998,
+          0.036164991557598114,
+          0.532193660736084
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999997615814209,
+          0.9999997019767761
+        ]
+      },
+      {
+        "id": 98,
+        "name": "CC_Base_R_Index1_091",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          99
+        ],
+        "translation": [
+          -0.12679600715637207,
+          10.05592155456543,
+          4.999673843383789
+        ],
+        "rotation": [
+          0.19609850645065308,
+          0.00404038792476058,
+          0.5176751613616943,
+          0.8327915072441101
+        ],
+        "scale": [
+          1.0,
+          1.0000003576278687,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 99,
+        "name": "CC_Base_R_Index2_092",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          100
+        ],
+        "translation": [
+          -2.002716064453125e-05,
+          4.424168586730957,
+          1.1444091796875e-05
+        ],
+        "rotation": [
+          -0.042833928018808365,
+          -0.0045874579809606075,
+          0.698205828666687,
+          0.7145997881889343
+        ],
+        "scale": [
+          1.000000238418579,
+          1.0,
+          1.000000238418579
+        ]
+      },
+      {
+        "id": 100,
+        "name": "CC_Base_R_Index3_093",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          5.7220458984375e-06,
+          2.3107213973999023,
+          -2.765655517578125e-05
+        ],
+        "rotation": [
+          0.018984021618962288,
+          -0.02974206954240799,
+          0.6819833517074585,
+          0.7305160760879517
+        ],
+        "scale": [
+          0.9999997615814209,
+          0.9999999403953552,
+          0.9999996423721313
+        ]
+      },
+      {
+        "id": 101,
+        "name": "CC_Base_R_Pinky1_094",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          102
+        ],
+        "translation": [
+          -0.12679290771484375,
+          9.862945556640625,
+          -2.495513916015625
+        ],
+        "rotation": [
+          -0.08887144178152084,
+          0.07243423908948898,
+          0.5340333580970764,
+          0.8376535773277283
+        ],
+        "scale": [
+          0.9999998807907104,
+          1.0,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 102,
+        "name": "CC_Base_R_Pinky2_095",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          103
+        ],
+        "translation": [
+          -6.318092346191406e-06,
+          3.088951826095581,
+          -1.430511474609375e-06
+        ],
+        "rotation": [
+          -0.010205218568444252,
+          0.007324936334043741,
+          0.48657968640327454,
+          0.8735460042953491
+        ],
+        "scale": [
+          1.0000003576278687,
+          1.000000238418579,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 103,
+        "name": "CC_Base_R_Pinky3_096",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.463859558105469e-06,
+          1.962712287902832,
+          -4.76837158203125e-07
+        ],
+        "rotation": [
+          -0.0008317742613144219,
+          -0.008916893042623997,
+          0.8328288197517395,
+          0.5534581542015076
+        ],
+        "scale": [
+          0.9999997615814209,
+          1.0,
+          0.9999997019767761
+        ]
+      },
+      {
+        "id": 104,
+        "name": "CC_Base_R_RibsTwist_097",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          105
+        ],
+        "translation": [
+          -9.620867729187012,
+          6.4951653480529785,
+          8.68148422241211
+        ],
+        "rotation": [
+          -1.8609027847560355e-06,
+          0.6366291046142578,
+          0.7711701393127441,
+          -1.0155333256989252e-05
+        ],
+        "scale": [
+          1.0,
+          0.9999998211860657,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 105,
+        "name": "CC_Base_R_Breast_098",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.475214958190918e-05,
+          2.0212903022766113,
+          -4.927313420921564e-05
+        ],
+        "rotation": [
+          3.6246603940526256e-08,
+          6.790596671635285e-07,
+          -2.3632310330867767e-07,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 106,
+        "name": "CC_Base_L_RibsTwist_099",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          107
+        ],
+        "translation": [
+          9.629081726074219,
+          6.488554000854492,
+          8.685317993164062
+        ],
+        "rotation": [
+          8.692672054166906e-06,
+          0.6366288065910339,
+          0.7711703777313232,
+          9.60067154665012e-07
+        ],
+        "scale": [
+          1.0,
+          0.9999998807907104,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 107,
+        "name": "CC_Base_L_Breast_0100",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.1742115020751953e-05,
+          2.021280288696289,
+          -2.5331974029541016e-05
+        ],
+        "rotation": [
+          -7.193733608801267e-08,
+          -1.680728018982336e-06,
+          -3.7834979593753815e-10,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 108,
+        "name": "Pouch1_0101",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          109
+        ],
+        "translation": [
+          -20.727684020996094,
+          -3.8174655437469482,
+          -1.9514906406402588
+        ],
+        "rotation": [
+          0.8522879481315613,
+          -0.05408737063407898,
+          -0.5191152691841125,
+          -0.034632258117198944
+        ],
+        "scale": [
+          1.0000063180923462,
+          1.0000001192092896,
+          1.0
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Pouch1.001_0102",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          110
+        ],
+        "translation": [
+          4.76837158203125e-07,
+          8.69925308227539,
+          -7.152557373046875e-07
+        ],
+        "rotation": [
+          0.02383364737033844,
+          1.1163665902813591e-07,
+          0.012312294915318489,
+          0.9996402263641357
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          0.9999999403953552
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Pouch1.002_0103",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.384185791015625e-07,
+          10.386962890625,
+          -1.1920928955078125e-06
+        ],
+        "rotation": [
+          -0.010629178024828434,
+          -1.3259835895951255e-08,
+          -0.005490852519869804,
+          0.9999285340309143
+        ],
+        "scale": null
+      },
+      {
+        "id": 111,
+        "name": "Pouch2_0104",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          112
+        ],
+        "translation": [
+          -9.833799362182617,
+          -1.4487773180007935,
+          -15.014679908752441
+        ],
+        "rotation": [
+          0.745448887348175,
+          0.15144845843315125,
+          -0.4564107656478882,
+          -0.46158266067504883
+        ],
+        "scale": [
+          1.0,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Pouch2.001_0105",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          113
+        ],
+        "translation": [
+          1.430511474609375e-06,
+          5.402232646942139,
+          7.62939453125e-06
+        ],
+        "rotation": [
+          -0.270565927028656,
+          0.01732587441802025,
+          0.35790491104125977,
+          0.8935312032699585
+        ],
+        "scale": [
+          1.0000001192092896,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 113,
+        "name": "Pouch2.002_0106",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.0728836059570312e-06,
+          7.653940200805664,
+          -1.430511474609375e-06
+        ],
+        "rotation": [
+          -0.03765454143285751,
+          0.00018422107677906752,
+          0.01977795548737049,
+          0.99909508228302
+        ],
+        "scale": [
+          1.0,
+          1.0000001192092896,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Pouch3_0107",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          115
+        ],
+        "translation": [
+          5.710273265838623,
+          -0.3192799687385559,
+          -17.453750610351562
+        ],
+        "rotation": [
+          0.7682381868362427,
+          0.2695094048976898,
+          -0.39420604705810547,
+          -0.4263523519039154
+        ],
+        "scale": [
+          0.9999998807907104,
+          0.9999998807907104,
+          0.9999998211860657
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Pouch3.001_0108",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          116
+        ],
+        "translation": [
+          -5.7220458984375e-06,
+          5.402237892150879,
+          1.9073486328125e-06
+        ],
+        "rotation": [
+          -0.183124840259552,
+          -0.052628740668296814,
+          0.40959393978118896,
+          0.8921481370925903
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999999403953552,
+          1.0
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Pouch3.002_0109",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          2.86102294921875e-06,
+          7.653923511505127,
+          1.6689300537109375e-06
+        ],
+        "rotation": [
+          -0.029907215386629105,
+          -0.001945634838193655,
+          0.03024197183549404,
+          0.9990931749343872
+        ],
+        "scale": [
+          0.9999999403953552,
+          0.9999998807907104,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Pouch4_0110",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          118
+        ],
+        "translation": [
+          13.823861122131348,
+          0.7182334661483765,
+          -9.292226791381836
+        ],
+        "rotation": [
+          0.8519152998924255,
+          0.4357747435569763,
+          -0.25047093629837036,
+          -0.1469864696264267
+        ],
+        "scale": [
+          1.0,
+          1.0000001192092896,
+          1.0
+        ]
+      },
+      {
+        "id": 118,
+        "name": "Pouch4.001_0111",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          119
+        ],
+        "translation": [
+          5.245208740234375e-06,
+          10.378715515136719,
+          1.3709068298339844e-06
+        ],
+        "rotation": [
+          0.09878914803266525,
+          -0.22745591402053833,
+          0.437656044960022,
+          0.8642694354057312
+        ],
+        "scale": [
+          1.0,
+          0.9999999403953552,
+          0.9999998807907104
+        ]
+      },
+      {
+        "id": 119,
+        "name": "Pouch4.002_0112",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -9.5367431640625e-07,
+          14.704673767089844,
+          9.5367431640625e-07
+        ],
+        "rotation": [
+          0.00258169649168849,
+          -0.0016579157672822475,
+          0.042454179376363754,
+          0.9990937113761902
+        ],
+        "scale": [
+          1.0000001192092896,
+          1.0,
+          1.0000001192092896
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Object_120",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 121,
+        "name": "Object_121",
+        "mesh": 0,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 122,
+        "name": "Object_122",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 123,
+        "name": "Object_123",
+        "mesh": 1,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 124,
+        "name": "Object_124",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 125,
+        "name": "Object_125",
+        "mesh": 2,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 126,
+        "name": "Object_126",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 127,
+        "name": "Object_127",
+        "mesh": 3,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 128,
+        "name": "Object_128",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 129,
+        "name": "Object_129",
+        "mesh": 4,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 130,
+        "name": "Object_130",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 131,
+        "name": "Object_131",
+        "mesh": 5,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 132,
+        "name": "Object_132",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 133,
+        "name": "Object_133",
+        "mesh": 6,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 134,
+        "name": "Object_134",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 135,
+        "name": "Object_135",
+        "mesh": 7,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 136,
+        "name": "Object_136",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 137,
+        "name": "Object_137",
+        "mesh": 8,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 138,
+        "name": "Object_138",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 139,
+        "name": "Object_139",
+        "mesh": 9,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 140,
+        "name": "Object_140",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 141,
+        "name": "Object_141",
+        "mesh": 10,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 142,
+        "name": "Object_142",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 143,
+        "name": "Object_143",
+        "mesh": 11,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 144,
+        "name": "Object_144",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 145,
+        "name": "Object_145",
+        "mesh": 12,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 146,
+        "name": "Object_146",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 147,
+        "name": "Object_147",
+        "mesh": 13,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 148,
+        "name": "Object_148",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 149,
+        "name": "Object_149",
+        "mesh": 14,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 150,
+        "name": "Object_150",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 151,
+        "name": "Object_151",
+        "mesh": 15,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 152,
+        "name": "Object_152",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 153,
+        "name": "Object_153",
+        "mesh": 16,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 154,
+        "name": "Object_154",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 155,
+        "name": "Object_155",
+        "mesh": 17,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 156,
+        "name": "Object_156",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 157,
+        "name": "Object_157",
+        "mesh": 18,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 158,
+        "name": "Object_158",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 159,
+        "name": "Object_159",
+        "mesh": 19,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 160,
+        "name": "Object_160",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 161,
+        "name": "Object_161",
+        "mesh": 20,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 162,
+        "name": "Object_162",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 163,
+        "name": "Object_163",
+        "mesh": 21,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 164,
+        "name": "Object_164",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 165,
+        "name": "Object_165",
+        "mesh": 22,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 166,
+        "name": "Mesh0_003.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.6226039153698366e-06,
+          2.264976728838519e-06,
+          -7.152554530875932e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.184873958479329e-08,
+          -3.276834448229238e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Plane_008.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          2.1780899306378387e-10,
+          7.563904546259437e-06,
+          4.618837010639254e-06
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371183592866146e-08,
+          -4.371138828673793e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 168,
+        "name": "Plane_020.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.6226039153698366e-06,
+          2.264976728838519e-06,
+          -7.152554530875932e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.184873958479329e-08,
+          -3.276834448229238e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 169,
+        "name": "RetopoFlow_006.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.861023403966101e-06,
+          -5.006789706385462e-06,
+          2.501185294035563e-13
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          5.116196888366176e-08,
+          -3.4398155435155786e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 170,
+        "name": "RetopoFlow_011.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.0994406188256107e-06,
+          6.437301180994837e-06,
+          4.768373287333816e-07
+        ],
+        "rotation": [
+          -5.727633833885193e-08,
+          4.231440442481471e-08,
+          -4.1848736032079614e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 171,
+        "name": "RetopoFlow_014.009",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.313007400506667e-12,
+          -3.3381747925886884e-06,
+          4.3070392052868556e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371140960302e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 172,
+        "name": "RetopoFlow_014.010",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.313007400506667e-12,
+          -3.3381747925886884e-06,
+          4.3070392052868556e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371140960302e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 173,
+        "name": "RetopoFlow_014.011",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.313007400506667e-12,
+          -3.3381747925886884e-06,
+          4.3070392052868556e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371140960302e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 174,
+        "name": "RetopoFlow_014.012",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.313007400506667e-12,
+          -3.3381747925886884e-06,
+          4.3070392052868556e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371140960302e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 175,
+        "name": "RetopoFlow_014.013",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.2470409274101257e-06,
+          -5.960464477539062e-07,
+          1.8626438702540327e-07
+        ],
+        "rotation": [
+          -5.801848956821232e-08,
+          4.33912390462865e-08,
+          -4.3758674905802764e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999999776482582
+        ]
+      },
+      {
+        "id": 176,
+        "name": "RetopoFlow_014.014",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.157815840814938e-13,
+          3.1443778425455093e-06,
+          1.4783251067740366e-08
+        ],
+        "rotation": [
+          -5.966285243630409e-08,
+          4.371161566041337e-08,
+          -4.371138118131057e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 177,
+        "name": "RetopoFlow_014.015",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.6226039153698366e-06,
+          2.264976728838519e-06,
+          -7.152554530875932e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.184873958479329e-08,
+          -3.276834448229238e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 178,
+        "name": "RetopoFlow_014.016",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.157815840814938e-13,
+          3.1443778425455093e-06,
+          1.4783251067740366e-08
+        ],
+        "rotation": [
+          -5.966285243630409e-08,
+          4.371161566041337e-08,
+          -4.371138118131057e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 179,
+        "name": "RetopoFlow_014.017",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.157815840814938e-13,
+          3.1443778425455093e-06,
+          1.4783251067740366e-08
+        ],
+        "rotation": [
+          -5.966285243630409e-08,
+          4.371161566041337e-08,
+          -4.371138118131057e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 180,
+        "name": "RetopoFlow_014.018",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.313007400506667e-12,
+          -3.3381747925886884e-06,
+          4.3070392052868556e-07
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          4.371140960302e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 181,
+        "name": "RetopoFlow_015.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          4.1882036033724646e-11,
+          -5.722125479223905e-06,
+          -2.8628992367885076e-06
+        ],
+        "rotation": [
+          -5.2154071283894154e-08,
+          4.371127459990021e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 182,
+        "name": "RetopoFlow_016.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          4.1882036033724646e-11,
+          -5.722125479223905e-06,
+          -2.8628992367885076e-06
+        ],
+        "rotation": [
+          -5.2154071283894154e-08,
+          4.371127459990021e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 183,
+        "name": "mesh_010.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          7.310884342359714e-08,
+          1.7881392011531716e-07,
+          2.9802315282267955e-08
+        ],
+        "rotation": [
+          -5.803304503615436e-08,
+          4.3827803608564864e-08,
+          -4.559585775609776e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 184,
+        "name": "mesh_012.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          3.3378594253008487e-06,
+          -4.768371127283899e-06,
+          -1.6689303947714507e-06
+        ],
+        "rotation": [
+          -5.2154071283894154e-08,
+          4.557402988325521e-08,
+          -2.2290963741511405e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999999776482582,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 185,
+        "name": "mesh_013.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -6.556510925292969e-06,
+          -9.685697932582116e-08,
+          -1.1920872111659264e-07
+        ],
+        "rotation": [
+          -5.9546447772618194e-08,
+          4.347855764308406e-08,
+          -4.2669100253078796e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 186,
+        "name": "mesh_016.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.861023403966101e-06,
+          -5.006789706385462e-06,
+          2.501185294035563e-13
+        ],
+        "rotation": [
+          -5.960465898624534e-08,
+          5.116196888366176e-08,
+          -3.4398155435155786e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 187,
+        "name": "mesh_rep_0_ori_repair_quad_004.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          4.1882036033724646e-11,
+          -5.722125479223905e-06,
+          -2.8628992367885076e-06
+        ],
+        "rotation": [
+          -5.2154071283894154e-08,
+          4.371127459990021e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      },
+      {
+        "id": 188,
+        "name": "mesh_rep_0_ori_repair_quad_009.001",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          4.1882036033724646e-11,
+          -5.722125479223905e-06,
+          -2.8628992367885076e-06
+        ],
+        "rotation": [
+          -5.2154071283894154e-08,
+          4.371127459990021e-08,
+          -4.3711338548746426e-08,
+          1.0
+        ],
+        "scale": [
+          0.009999999776482582,
+          0.009999997913837433,
+          0.009999997913837433
+        ]
+      }
+    ]
+  },
+  "first person view.glb": {
+    "filename": "first person view.glb",
+    "size_bytes": 7946052,
+    "nodes": 86,
+    "root_nodes": [
+      0
+    ],
+    "mesh_definitions": 13,
+    "mesh_instances": 13,
+    "triangles": 25103,
+    "materials": [
+      "carbine",
+      "lens",
+      "arms"
+    ],
+    "images": [
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      },
+      {
+        "name": null,
+        "uri": null,
+        "embedded": true,
+        "mimeType": "image/png"
+      }
+    ],
+    "skins": [
+      {
+        "name": null,
+        "joint_count": 50,
+        "root": "_rootJoint",
+        "joints": [
+          [
+            33,
+            "_rootJoint"
+          ],
+          [
+            34,
+            "Joint_00"
+          ],
+          [
+            35,
+            "L_arm_01"
+          ],
+          [
+            36,
+            "L_elbow_02"
+          ],
+          [
+            37,
+            "L_wrist_03"
+          ],
+          [
+            38,
+            "L_thumb1_04"
+          ],
+          [
+            39,
+            "L_thumb2_05"
+          ],
+          [
+            40,
+            "L_thumb3_06"
+          ],
+          [
+            41,
+            "Joint_3_07"
+          ],
+          [
+            42,
+            "L_point1_08"
+          ],
+          [
+            43,
+            "L_point2_09"
+          ],
+          [
+            44,
+            "L_point3_010"
+          ],
+          [
+            45,
+            "Joint_3_2_011"
+          ],
+          [
+            46,
+            "L_middle1_012"
+          ],
+          [
+            47,
+            "L_middle2_013"
+          ],
+          [
+            48,
+            "L_middle3_014"
+          ],
+          [
+            49,
+            "Joint_3_3_015"
+          ],
+          [
+            50,
+            "L_palm_016"
+          ],
+          [
+            51,
+            "L_ring1_017"
+          ],
+          [
+            52,
+            "L_ring2_018"
+          ],
+          [
+            53,
+            "L_ring3_019"
+          ],
+          [
+            54,
+            "Joint_3_4_020"
+          ],
+          [
+            55,
+            "L_pink1_021"
+          ],
+          [
+            56,
+            "L_pink2_022"
+          ],
+          [
+            57,
+            "L_pink3_023"
+          ],
+          [
+            58,
+            "Joint_3_5_024"
+          ],
+          [
+            59,
+            "R_arm_025"
+          ],
+          [
+            60,
+            "R_elbow_026"
+          ],
+          [
+            61,
+            "R_wrist_027"
+          ],
+          [
+            62,
+            "R_thumb1_028"
+          ],
+          [
+            63,
+            "R_thumb2_029"
+          ],
+          [
+            64,
+            "R_thumb3_030"
+          ],
+          [
+            65,
+            "Joint_3_6_031"
+          ],
+          [
+            66,
+            "R_point1_032"
+          ],
+          [
+            67,
+            "R_point2_033"
+          ],
+          [
+            68,
+            "R_point3_034"
+          ],
+          [
+            69,
+            "Joint_3_7_035"
+          ],
+          [
+            70,
+            "R_middle1_036"
+          ],
+          [
+            71,
+            "R_middle2_037"
+          ],
+          [
+            72,
+            "R_middle3_038"
+          ],
+          [
+            73,
+            "Joint_3_8_039"
+          ],
+          [
+            74,
+            "R_palm_040"
+          ],
+          [
+            75,
+            "R_ring1_041"
+          ],
+          [
+            76,
+            "R_ring2_042"
+          ],
+          [
+            77,
+            "R_ring3_043"
+          ],
+          [
+            78,
+            "Joint_3_9_044"
+          ],
+          [
+            79,
+            "R_pink1_045"
+          ],
+          [
+            80,
+            "R_pink2_046"
+          ],
+          [
+            81,
+            "R_pink3_047"
+          ],
+          [
+            82,
+            "Joint_3_10_048"
+          ]
+        ]
+      }
+    ],
+    "animations": [
+      {
+        "name": "allanims",
+        "duration": 7.400000095367432,
+        "channels": 69,
+        "paths": {
+          "rotation": 38,
+          "translation": 31
+        },
+        "targets": [
+          "lid",
+          "handle2",
+          "handle",
+          "bolt",
+          "boltcatch",
+          "release",
+          "clip",
+          "trigger",
+          "carbine",
+          "L_arm_Pole",
+          "R_arm_Pole",
+          "L_thumb3_06",
+          "L_thumb2_05",
+          "L_thumb1_04",
+          "L_point3_010"
+        ]
+      }
+    ],
+    "bounds_min": [
+      -0.6006,
+      -0.14768,
+      -1.30472
+    ],
+    "bounds_max": [
+      1.03608,
+      0.51788,
+      1.38607
+    ],
+    "dimensions": [
+      1.63668,
+      0.66556,
+      2.69079
+    ],
+    "mesh_nodes": [
+      {
+        "node": 6,
+        "name": "base_carbine_0",
+        "triangles": 7703,
+        "bounds": [
+          [
+            -0.079,
+            -0.062,
+            -0.711
+          ],
+          [
+            0.068,
+            0.396,
+            1.386
+          ]
+        ]
+      },
+      {
+        "node": 8,
+        "name": "scope_carbine_0",
+        "triangles": 1756,
+        "bounds": [
+          [
+            -0.044,
+            0.374,
+            0.041
+          ],
+          [
+            0.064,
+            0.518,
+            0.206
+          ]
+        ]
+      },
+      {
+        "node": 10,
+        "name": "lens_lens_0",
+        "triangles": 48,
+        "bounds": [
+          [
+            -0.03,
+            0.429,
+            0.092
+          ],
+          [
+            0.03,
+            0.489,
+            0.099
+          ]
+        ]
+      },
+      {
+        "node": 12,
+        "name": "lid_carbine_0",
+        "triangles": 114,
+        "bounds": [
+          [
+            -0.083,
+            0.272,
+            0.188
+          ],
+          [
+            -0.029,
+            0.299,
+            0.388
+          ]
+        ]
+      },
+      {
+        "node": 14,
+        "name": "handle_carbine_0",
+        "triangles": 322,
+        "bounds": [
+          [
+            -0.064,
+            0.368,
+            -0.063
+          ],
+          [
+            0.064,
+            0.392,
+            0.195
+          ]
+        ]
+      },
+      {
+        "node": 16,
+        "name": "handle2_carbine_0",
+        "triangles": 72,
+        "bounds": [
+          [
+            0.033,
+            0.377,
+            -0.061
+          ],
+          [
+            0.074,
+            0.383,
+            -0.002
+          ]
+        ]
+      },
+      {
+        "node": 18,
+        "name": "bolt_carbine_0",
+        "triangles": 54,
+        "bounds": [
+          [
+            -0.031,
+            0.287,
+            0.171
+          ],
+          [
+            0.026,
+            0.349,
+            0.399
+          ]
+        ]
+      },
+      {
+        "node": 20,
+        "name": "boltcatch_carbine_0",
+        "triangles": 144,
+        "bounds": [
+          [
+            -0.081,
+            0.289,
+            -0.034
+          ],
+          [
+            0.004,
+            0.328,
+            0.119
+          ]
+        ]
+      },
+      {
+        "node": 22,
+        "name": "release_carbine_0",
+        "triangles": 104,
+        "bounds": [
+          [
+            0.032,
+            0.242,
+            0.196
+          ],
+          [
+            0.047,
+            0.318,
+            0.226
+          ]
+        ]
+      },
+      {
+        "node": 24,
+        "name": "clip_carbine_0",
+        "triangles": 708,
+        "bounds": [
+          [
+            -0.03,
+            -0.148,
+            0.226
+          ],
+          [
+            0.03,
+            0.275,
+            0.433
+          ]
+        ]
+      },
+      {
+        "node": 26,
+        "name": "bullet_carbine_0",
+        "triangles": 288,
+        "bounds": [
+          [
+            -0.016,
+            0.253,
+            0.236
+          ],
+          [
+            0.016,
+            0.284,
+            0.38
+          ]
+        ]
+      },
+      {
+        "node": 28,
+        "name": "trigger_carbine_0",
+        "triangles": 90,
+        "bounds": [
+          [
+            -0.01,
+            0.127,
+            0.117
+          ],
+          [
+            0.01,
+            0.216,
+            0.142
+          ]
+        ]
+      },
+      {
+        "node": 84,
+        "name": "Object_84",
+        "triangles": 13700,
+        "bounds": [
+          [
+            -0.601,
+            0.028,
+            -1.305
+          ],
+          [
+            1.036,
+            0.482,
+            0.279
+          ]
+        ]
+      }
+    ],
+    "nodes_all": [
+      {
+        "id": 0,
+        "name": "Sketchfab_model",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          1
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 1,
+        "name": "483e341a4f714edfbbeda411d6b11187.fbx",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          2
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 2,
+        "name": "Object_2",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          3
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 3,
+        "name": "RootNode",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          4,
+          29,
+          30,
+          31,
+          85
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 4,
+        "name": "carbine",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          5,
+          7,
+          11,
+          13,
+          17,
+          19,
+          21,
+          23,
+          27
+        ],
+        "translation": [
+          0.0,
+          5.282999515533447,
+          -0.14303435385227203
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 5,
+        "name": "base",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          6
+        ],
+        "translation": [
+          0.0,
+          0.9244911670684814,
+          0.5875365138053894
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 6,
+        "name": "base_carbine_0",
+        "mesh": 0,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 7,
+        "name": "scope",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          8,
+          9
+        ],
+        "translation": [
+          0.0,
+          13.240220069885254,
+          6.5559282302856445
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 8,
+        "name": "scope_carbine_0",
+        "mesh": 1,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 9,
+        "name": "lens",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          10
+        ],
+        "translation": [
+          0.0,
+          3.576000690460205,
+          -1.6541060209274292
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 10,
+        "name": "lens_lens_0",
+        "mesh": 2,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 11,
+        "name": "lid",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          12
+        ],
+        "translation": [
+          -1.6749316453933716,
+          8.83869743347168,
+          14.09724235534668
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 12,
+        "name": "lid_carbine_0",
+        "mesh": 3,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 13,
+        "name": "handle",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          14,
+          15
+        ],
+        "translation": [
+          0.0,
+          13.016830444335938,
+          -1.3914932012557983
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 14,
+        "name": "handle_carbine_0",
+        "mesh": 4,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 15,
+        "name": "handle2",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          16
+        ],
+        "translation": [
+          2.053232192993164,
+          1.7763568394002505e-14,
+          -0.8207128643989563
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 16,
+        "name": "handle2_carbine_0",
+        "mesh": 5,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 17,
+        "name": "bolt",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          18
+        ],
+        "translation": [
+          0.0,
+          10.009328842163086,
+          14.001694679260254
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 18,
+        "name": "bolt_carbine_0",
+        "mesh": 6,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 19,
+        "name": "boltcatch",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          20
+        ],
+        "translation": [
+          -1.5114083290100098,
+          9.54069995880127,
+          3.18294095993042
+        ],
+        "rotation": [
+          0.0,
+          0.16674548387527466,
+          0.0,
+          0.9860000014305115
+        ],
+        "scale": null
+      },
+      {
+        "id": 20,
+        "name": "boltcatch_carbine_0",
+        "mesh": 7,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 21,
+        "name": "release",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          22
+        ],
+        "translation": [
+          1.6851352453231812,
+          7.375816345214844,
+          10.280107498168945
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 22,
+        "name": "release_carbine_0",
+        "mesh": 8,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 23,
+        "name": "clip",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          24,
+          25
+        ],
+        "translation": [
+          0.0,
+          0.12343887239694595,
+          14.87830924987793
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 24,
+        "name": "clip_carbine_0",
+        "mesh": 9,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 25,
+        "name": "bullet",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          26
+        ],
+        "translation": [
+          0.0,
+          7.509960174560547,
+          -0.11549613624811172
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 26,
+        "name": "bullet_carbine_0",
+        "mesh": 10,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 27,
+        "name": "trigger",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          28
+        ],
+        "translation": [
+          0.0,
+          5.474701404571533,
+          6.057138442993164
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 28,
+        "name": "trigger_carbine_0",
+        "mesh": 11,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 29,
+        "name": "L_arm_Pole",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          24.212257385253906,
+          -11.878561019897461,
+          7.412501811981201
+        ],
+        "rotation": [
+          -0.614437997341156,
+          0.7762402296066284,
+          -0.06544284522533417,
+          0.1250373274087906
+        ],
+        "scale": null
+      },
+      {
+        "id": 30,
+        "name": "R_arm_Pole",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -48.26899337768555,
+          -15.202791213989258,
+          -22.367067337036133
+        ],
+        "rotation": [
+          0.5795976519584656,
+          0.8086460828781128,
+          -0.0408841036260128,
+          -0.09212366491556168
+        ],
+        "scale": null
+      },
+      {
+        "id": 31,
+        "name": "Null",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          32
+        ],
+        "translation": [
+          10.480657577514648,
+          7.213532447814941,
+          -31.40207290649414
+        ],
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 32,
+        "name": "Object_32",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          33,
+          84,
+          83
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 33,
+        "name": "_rootJoint",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          34
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 34,
+        "name": "Joint_00",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          35,
+          59
+        ],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 35,
+        "name": "L_arm_01",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          36
+        ],
+        "translation": [
+          11.496480941772461,
+          0.6182298064231873,
+          17.137168884277344
+        ],
+        "rotation": [
+          -0.5340576767921448,
+          0.7757331132888794,
+          0.2885719835758209,
+          0.17247265577316284
+        ],
+        "scale": null
+      },
+      {
+        "id": 36,
+        "name": "L_elbow_02",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          37
+        ],
+        "translation": [
+          -7.105427357601002e-15,
+          7.105427357601002e-15,
+          -31.83231544494629
+        ],
+        "rotation": [
+          0.6936678886413574,
+          -0.2060815840959549,
+          0.536155104637146,
+          0.43461811542510986
+        ],
+        "scale": null
+      },
+      {
+        "id": 37,
+        "name": "L_wrist_03",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          38,
+          42,
+          46,
+          50
+        ],
+        "translation": [
+          1.7763568394002505e-14,
+          1.5987211554602254e-14,
+          -32.10783767700195
+        ],
+        "rotation": [
+          -0.1548856943845749,
+          0.15994130074977875,
+          2.2313511749297386e-15,
+          0.9748995900154114
+        ],
+        "scale": null
+      },
+      {
+        "id": 38,
+        "name": "L_thumb1_04",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          39
+        ],
+        "translation": [
+          -0.47380128502845764,
+          1.8838717937469482,
+          -2.07057523727417
+        ],
+        "rotation": [
+          0.2697724401950836,
+          0.1018020510673523,
+          -0.2426489144563675,
+          0.926272451877594
+        ],
+        "scale": null
+      },
+      {
+        "id": 39,
+        "name": "L_thumb2_05",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          40
+        ],
+        "translation": [
+          -1.7763568394002505e-15,
+          1.5987211554602254e-14,
+          -5.966172218322754
+        ],
+        "rotation": [
+          -0.09414130449295044,
+          0.08260371536016464,
+          -0.1414925903081894,
+          0.9819846749305725
+        ],
+        "scale": null
+      },
+      {
+        "id": 40,
+        "name": "L_thumb3_06",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          41
+        ],
+        "translation": [
+          1.7763568394002505e-15,
+          1.0658141036401503e-14,
+          -3.131600856781006
+        ],
+        "rotation": [
+          -0.08146024495363235,
+          -0.011708265170454979,
+          -0.04968000203371048,
+          0.9953687787055969
+        ],
+        "scale": null
+      },
+      {
+        "id": 41,
+        "name": "Joint_3_07",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          8.881784197001252e-15,
+          7.105427357601002e-15,
+          -3.4478044509887695
+        ],
+        "rotation": [
+          4.163336342344337e-16,
+          -8.743006318923108e-16,
+          -4.128641872824801e-16,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 42,
+        "name": "L_point1_08",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          43
+        ],
+        "translation": [
+          -3.983135223388672,
+          -0.3386315107345581,
+          -11.558354377746582
+        ],
+        "rotation": [
+          -0.1396646648645401,
+          -0.16808673739433289,
+          0.45045143365859985,
+          0.8656408786773682
+        ],
+        "scale": null
+      },
+      {
+        "id": 43,
+        "name": "L_point2_09",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          44
+        ],
+        "translation": [
+          -3.552713678800501e-15,
+          -7.105427357601002e-15,
+          -3.578230857849121
+        ],
+        "rotation": [
+          -0.05083904415369034,
+          -0.48617351055145264,
+          0.0028994667809456587,
+          0.8723773956298828
+        ],
+        "scale": null
+      },
+      {
+        "id": 44,
+        "name": "L_point3_010",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          45
+        ],
+        "translation": [
+          0.0,
+          -7.105427357601002e-15,
+          -2.680988073348999
+        ],
+        "rotation": [
+          -0.03149277716875076,
+          -0.14205636084079742,
+          -0.004521920345723629,
+          0.9893471598625183
+        ],
+        "scale": null
+      },
+      {
+        "id": 45,
+        "name": "Joint_3_2_011",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -1.0658141036401503e-14,
+          -7.105427357601002e-15,
+          -2.5513107776641846
+        ],
+        "rotation": [
+          1.4155343563970746e-15,
+          4.468647674116255e-15,
+          2.7755575615628914e-17,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 46,
+        "name": "L_middle1_012",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          47
+        ],
+        "translation": [
+          -1.9406448602676392,
+          -2.52942156791687,
+          -11.686667442321777
+        ],
+        "rotation": [
+          0.09115514159202576,
+          -0.5090442895889282,
+          0.40235283970832825,
+          0.7554315328598022
+        ],
+        "scale": null
+      },
+      {
+        "id": 47,
+        "name": "L_middle2_013",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          48
+        ],
+        "translation": [
+          -2.1316282072803006e-14,
+          -7.105427357601002e-15,
+          -3.645991325378418
+        ],
+        "rotation": [
+          0.022278979420661926,
+          -0.19479022920131683,
+          0.0044256653636693954,
+          0.9805818796157837
+        ],
+        "scale": null
+      },
+      {
+        "id": 48,
+        "name": "L_middle3_014",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          49
+        ],
+        "translation": [
+          2.4868995751603507e-14,
+          -1.0658141036401503e-14,
+          -3.324483633041382
+        ],
+        "rotation": [
+          -0.011769777163863182,
+          -0.22174802422523499,
+          -0.0006359648541547358,
+          0.9750328660011292
+        ],
+        "scale": null
+      },
+      {
+        "id": 49,
+        "name": "Joint_3_3_015",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          7.105427357601002e-15,
+          7.105427357601002e-15,
+          -2.877396821975708
+        ],
+        "rotation": [
+          3.3306690738754696e-16,
+          -7.91033905045424e-16,
+          -2.7755575615628914e-17,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 50,
+        "name": "L_palm_016",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          51,
+          55
+        ],
+        "translation": [
+          0.06001604348421097,
+          -4.392148494720459,
+          -6.29751443862915
+        ],
+        "rotation": [
+          -0.461575984954834,
+          0.882797122001648,
+          -0.052115388214588165,
+          0.07000770419836044
+        ],
+        "scale": null
+      },
+      {
+        "id": 51,
+        "name": "L_ring1_017",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          52
+        ],
+        "translation": [
+          -1.3581888675689697,
+          0.5025155544281006,
+          4.674308776855469
+        ],
+        "rotation": [
+          0.03227760270237923,
+          0.8285991549491882,
+          0.07501032203435898,
+          0.553854763507843
+        ],
+        "scale": null
+      },
+      {
+        "id": 52,
+        "name": "L_ring2_018",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          53
+        ],
+        "translation": [
+          1.0658141036401503e-14,
+          7.105427357601002e-15,
+          -3.4199888706207275
+        ],
+        "rotation": [
+          0.0504075288772583,
+          -0.19055378437042236,
+          0.015693290159106255,
+          0.9802561402320862
+        ],
+        "scale": null
+      },
+      {
+        "id": 53,
+        "name": "L_ring3_019",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          54
+        ],
+        "translation": [
+          3.197442310920451e-14,
+          1.0658141036401503e-14,
+          -3.0176467895507812
+        ],
+        "rotation": [
+          -0.0012836478417739272,
+          -0.040624868124723434,
+          0.06567423045635223,
+          0.9970129728317261
+        ],
+        "scale": null
+      },
+      {
+        "id": 54,
+        "name": "Joint_3_4_020",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          2.1316282072803006e-14,
+          -3.552713678800501e-15,
+          -2.492243766784668
+        ],
+        "rotation": [
+          -1.4155343563970746e-15,
+          -3.1155633628543455e-15,
+          -1.1102230246251565e-16,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 55,
+        "name": "L_pink1_021",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          56
+        ],
+        "translation": [
+          -2.814122200012207,
+          -1.9694318771362305,
+          3.6963770389556885
+        ],
+        "rotation": [
+          0.17084047198295593,
+          0.8055844902992249,
+          0.11905326694250107,
+          0.5546832084655762
+        ],
+        "scale": null
+      },
+      {
+        "id": 56,
+        "name": "L_pink2_022",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          57
+        ],
+        "translation": [
+          1.4210854715202004e-14,
+          0.0,
+          -2.7137250900268555
+        ],
+        "rotation": [
+          -0.021351661533117294,
+          -0.18644289672374725,
+          -0.0031038662418723106,
+          0.9822288751602173
+        ],
+        "scale": null
+      },
+      {
+        "id": 57,
+        "name": "L_pink3_023",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          58
+        ],
+        "translation": [
+          3.552713678800501e-15,
+          1.0658141036401503e-14,
+          -2.1342053413391113
+        ],
+        "rotation": [
+          0.02385628968477249,
+          -0.13973115384578705,
+          0.010102913714945316,
+          0.9898505210876465
+        ],
+        "scale": null
+      },
+      {
+        "id": 58,
+        "name": "Joint_3_5_024",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -7.105427357601002e-15,
+          3.552713678800501e-15,
+          -2.2711710929870605
+        ],
+        "rotation": [
+          -5.689893001203927e-16,
+          -1.7590096046404824e-15,
+          -4.163336342344337e-17,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 59,
+        "name": "R_arm_025",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          60
+        ],
+        "translation": [
+          9.39521312713623,
+          -0.4254426658153534,
+          -17.070384979248047
+        ],
+        "rotation": [
+          0.6968717575073242,
+          0.5408812761306763,
+          0.46017348766326904,
+          0.10028731822967529
+        ],
+        "scale": null
+      },
+      {
+        "id": 60,
+        "name": "R_elbow_026",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          61
+        ],
+        "translation": [
+          0.0,
+          -1.0658141036401503e-14,
+          -31.83231544494629
+        ],
+        "rotation": [
+          0.7559302449226379,
+          -0.18735510110855103,
+          -0.21972428262233734,
+          0.5875276327133179
+        ],
+        "scale": null
+      },
+      {
+        "id": 61,
+        "name": "R_wrist_027",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          62,
+          66,
+          70,
+          74
+        ],
+        "translation": [
+          -1.7763568394002505e-15,
+          -1.7763568394002505e-14,
+          -32.10783767700195
+        ],
+        "rotation": [
+          -0.2766810357570648,
+          -0.09870842844247818,
+          -3.448109344979331e-15,
+          0.9558787941932678
+        ],
+        "scale": null
+      },
+      {
+        "id": 62,
+        "name": "R_thumb1_028",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          63
+        ],
+        "translation": [
+          0.47380128502845764,
+          1.8838717937469482,
+          -2.07057523727417
+        ],
+        "rotation": [
+          0.312515527009964,
+          -0.1524658054113388,
+          0.2855291962623596,
+          0.8930628895759583
+        ],
+        "scale": null
+      },
+      {
+        "id": 63,
+        "name": "R_thumb2_029",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          64
+        ],
+        "translation": [
+          -5.329070518200751e-15,
+          1.4210854715202004e-14,
+          -5.966172218322754
+        ],
+        "rotation": [
+          -0.2822948396205902,
+          0.15391893684864044,
+          0.0948408842086792,
+          0.9421378970146179
+        ],
+        "scale": null
+      },
+      {
+        "id": 64,
+        "name": "R_thumb3_030",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          65
+        ],
+        "translation": [
+          -1.7763568394002505e-15,
+          7.105427357601002e-15,
+          -3.131600856781006
+        ],
+        "rotation": [
+          0.029344141483306885,
+          0.3903906047344208,
+          0.1825096756219864,
+          0.9019004106521606
+        ],
+        "scale": null
+      },
+      {
+        "id": 65,
+        "name": "Joint_3_6_031",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -3.552713678800501e-15,
+          3.552713678800501e-15,
+          -3.4478044509887695
+        ],
+        "rotation": [
+          5.620504062164855e-16,
+          5.551115123125783e-16,
+          1.0408340855860843e-16,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 66,
+        "name": "R_point1_032",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          67
+        ],
+        "translation": [
+          3.983135223388672,
+          -0.3386315107345581,
+          -11.558354377746582
+        ],
+        "rotation": [
+          -0.06223197281360626,
+          -0.07366211712360382,
+          -0.4056343734264374,
+          0.908934473991394
+        ],
+        "scale": null
+      },
+      {
+        "id": 67,
+        "name": "R_point2_033",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          68
+        ],
+        "translation": [
+          -7.105427357601002e-15,
+          3.552713678800501e-15,
+          -3.578230857849121
+        ],
+        "rotation": [
+          -0.0027827750891447067,
+          0.44091424345970154,
+          -0.04905468598008156,
+          0.8962033987045288
+        ],
+        "scale": null
+      },
+      {
+        "id": 68,
+        "name": "R_point3_034",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          69
+        ],
+        "translation": [
+          1.865174681370263e-14,
+          -1.7763568394002505e-15,
+          -2.680988073348999
+        ],
+        "rotation": [
+          0.04107781499624252,
+          0.40031692385673523,
+          -0.006186211947351694,
+          0.915434718132019
+        ],
+        "scale": null
+      },
+      {
+        "id": 69,
+        "name": "Joint_3_7_035",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.4210854715202004e-14,
+          7.105427357601002e-15,
+          -2.5513107776641846
+        ],
+        "rotation": [
+          1.3444106938820255e-15,
+          -4.690692279041286e-15,
+          6.3062168616529554e-30,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 70,
+        "name": "R_middle1_036",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          71
+        ],
+        "translation": [
+          1.9406448602676392,
+          -2.52942156791687,
+          -11.686667442321777
+        ],
+        "rotation": [
+          0.15586915612220764,
+          0.5836910605430603,
+          -0.4428776204586029,
+          0.6624718904495239
+        ],
+        "scale": null
+      },
+      {
+        "id": 71,
+        "name": "R_middle2_037",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          72
+        ],
+        "translation": [
+          2.842170943040401e-14,
+          -4.440892098500626e-15,
+          -3.645991325378418
+        ],
+        "rotation": [
+          -0.01807466521859169,
+          0.3950258195400238,
+          -0.012109867297112942,
+          0.9184123873710632
+        ],
+        "scale": null
+      },
+      {
+        "id": 72,
+        "name": "R_middle3_038",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          73
+        ],
+        "translation": [
+          -2.6645352591003757e-14,
+          -1.2434497875801753e-14,
+          -3.324483633041382
+        ],
+        "rotation": [
+          -0.01151864230632782,
+          0.47180819511413574,
+          -0.0025005924981087446,
+          0.8816225528717041
+        ],
+        "scale": null
+      },
+      {
+        "id": 73,
+        "name": "Joint_3_8_039",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          3.552713678800501e-15,
+          -4.440892098500626e-15,
+          -2.877396821975708
+        ],
+        "rotation": [
+          2.7755575615628914e-17,
+          8.81239525796218e-16,
+          -3.469446951953614e-17,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 74,
+        "name": "R_palm_040",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          75,
+          79
+        ],
+        "translation": [
+          -0.06001604348421097,
+          -4.392148494720459,
+          -6.29751443862915
+        ],
+        "rotation": [
+          0.5074353814125061,
+          0.8500050902366638,
+          0.0452226847410202,
+          -0.13399849832057953
+        ],
+        "scale": null
+      },
+      {
+        "id": 75,
+        "name": "R_ring1_041",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          76
+        ],
+        "translation": [
+          1.3581888675689697,
+          0.5025155544281006,
+          4.674308776855469
+        ],
+        "rotation": [
+          0.02226635254919529,
+          -0.8530350923538208,
+          -0.12398732453584671,
+          0.5064212083816528
+        ],
+        "scale": null
+      },
+      {
+        "id": 76,
+        "name": "R_ring2_042",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          77
+        ],
+        "translation": [
+          -1.532107773982716e-14,
+          1.865174681370263e-14,
+          -3.4199888706207275
+        ],
+        "rotation": [
+          0.02633563056588173,
+          0.6239757537841797,
+          -0.00525791896507144,
+          0.7809820771217346
+        ],
+        "scale": null
+      },
+      {
+        "id": 77,
+        "name": "R_ring3_043",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          78
+        ],
+        "translation": [
+          -2.842170943040401e-14,
+          1.199040866595169e-14,
+          -3.0176467895507812
+        ],
+        "rotation": [
+          0.0031747911125421524,
+          0.18011823296546936,
+          -0.00016105656686704606,
+          0.9836398363113403
+        ],
+        "scale": null
+      },
+      {
+        "id": 78,
+        "name": "Joint_3_9_044",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          -2.842170943040401e-14,
+          -1.7319479184152442e-14,
+          -2.492243766784668
+        ],
+        "rotation": [
+          -1.304512053934559e-15,
+          3.0878077872387166e-15,
+          -3.469446951953614e-17,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 79,
+        "name": "R_pink1_045",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          80
+        ],
+        "translation": [
+          2.814122200012207,
+          -1.9694318771362305,
+          3.6963770389556885
+        ],
+        "rotation": [
+          0.024906069040298462,
+          -0.7666257619857788,
+          -0.1516295224428177,
+          0.6234365105628967
+        ],
+        "scale": null
+      },
+      {
+        "id": 80,
+        "name": "R_pink2_046",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          81
+        ],
+        "translation": [
+          -2.7533531010703882e-14,
+          -1.4210854715202004e-14,
+          -2.7137250900268555
+        ],
+        "rotation": [
+          0.02358376234769821,
+          0.4984036386013031,
+          -0.029828453436493874,
+          0.8661108016967773
+        ],
+        "scale": null
+      },
+      {
+        "id": 81,
+        "name": "R_pink3_047",
+        "mesh": null,
+        "skin": null,
+        "children": [
+          82
+        ],
+        "translation": [
+          -3.552713678800501e-15,
+          9.769962616701378e-15,
+          -2.1342053413391113
+        ],
+        "rotation": [
+          0.02496589720249176,
+          0.2670411169528961,
+          -0.006920653861016035,
+          0.9633368253707886
+        ],
+        "scale": null
+      },
+      {
+        "id": 82,
+        "name": "Joint_3_10_048",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          1.7763568394002505e-14,
+          -1.1546319456101628e-14,
+          -2.2711710929870605
+        ],
+        "rotation": [
+          -9.575673587391975e-16,
+          1.5543122344752192e-15,
+          -6.938893903907228e-18,
+          1.0
+        ],
+        "scale": null
+      },
+      {
+        "id": 83,
+        "name": "Object_83",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 84,
+        "name": "Object_84",
+        "mesh": 12,
+        "skin": 0,
+        "children": [],
+        "translation": null,
+        "rotation": null,
+        "scale": null
+      },
+      {
+        "id": 85,
+        "name": "armmesh",
+        "mesh": null,
+        "skin": null,
+        "children": [],
+        "translation": [
+          34.19768142700195,
+          1.441250205039978,
+          -4.432706832885742
+        ],
+        "rotation": [
+          -0.033421214669942856,
+          0.04228776693344116,
+          -0.09035218507051468,
+          0.9944502115249634
+        ],
+        "scale": null
+      }
+    ]
+  }
+}

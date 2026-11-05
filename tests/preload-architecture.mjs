@@ -1,0 +1,31 @@
+import assert from 'node:assert/strict';
+import {readFileSync, readdirSync} from 'node:fs';
+import {resolve} from 'node:path';
+const root=resolve(import.meta.dirname,'..');
+const game=readFileSync(resolve(root,'src/engine/GameEngine.ts'),'utf8');
+const manager=readFileSync(resolve(root,'src/engine/EnemyManager.ts'),'utf8');
+const layout=readFileSync(resolve(root,'src/engine/LevelLayout.ts'),'utf8');
+const animations=resolve(root,'public/assets/enemy_animations');
+assert.match(game,/await this\.enemies\.prepareAll\(this\.renderer/,'preloading must complete before the game is marked loaded');
+assert.match(manager,/await preloadSpriteFrames\(renderer/,'PNG textures must preload before enemy groups');
+assert.match(manager,/renderer\.initTexture\(/,'animation frames must be GPU-uploaded before gameplay');
+assert.match(manager,/group\.visible=false/,'future groups should begin hidden');
+assert.match(manager,/this\.sectors\[wave\]\.visible=true/,'only reached group must become visible');
+assert.match(manager,/if\(this\.activeSector<0\)return null;/,'inactive sectors cannot be targeted');
+assert.match(manager,/if\(this\.activeSector<0\)return;/,'inactive sectors cannot update or shoot');
+assert.match(manager,/this\.enemies=this\.sectorEnemies\[wave\]/,'only the current sector participates in combat');
+assert.match(game,/enemies\.deactivate\(\)/,'enemies disabled during transit');
+assert.match(game,/enemies\.activate\(this\.wave\)/,'arrival activates prepared enemies');
+assert.match(game,/this\.health=Math\.min\(100,this\.health\+Math\.max\(5,16-this\.wave\*2\)\)/,'health regeneration preserved');
+assert.match(game,/gun\.reserve=Math\.min\(900,gun\.reserve\+70\)/,'ammo replenishment preserved');
+assert.ok(!game.includes('enemies.spawn('),'no synchronous per-sector spawning in the frame loop');
+assert.ok(!manager.includes('warmSpriteFrames()'),'old eager loader must not be used');
+assert.match(manager,/resetForRun\(\)/,'replay resets prebuilt enemies');
+assert.match(manager,/this\.root\.position\.copy\(this\.startPosition\)/,'replay returns enemies to initial positions');
+assert.equal((layout.match(/kind:'/g)||[]).length,28,'28 authored enemies remain');
+const pngs=readdirSync(animations).filter(x=>x.endsWith('.png'));
+assert.equal(pngs.length,48,'48 animation frames remain');
+for(const pose of ['idle','shoot','walk'])for(let variant=0;variant<2;variant++)for(let frame=0;frame<8;frame++){
+  assert.ok(pngs.includes(`${pose}_${variant}_${frame}.png`),`missing frame ${pose}_${variant}_${frame}`);
+}
+console.log('PASS: all six sector groups preload, future sectors inactive, transitions only activate, replay resets, health/ammo unchanged, 48 textures present');
